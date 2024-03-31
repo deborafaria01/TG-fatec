@@ -1,2 +1,9 @@
 # Debora Conceição Faria
-Repositório dedicado à documentação do TG do curso de Análise e Desenvolvimento de Sistemas da FATEC-SJC
+
+## 1. Introdução
+
+## 2. Meus Projetos
+
+## 3. Conhecimentos Técnicos
+
+## 4. Contato
