@@ -9,7 +9,11 @@ de compras e verificar as formas de pagamento utilizadas, entre outras funcional
 ## Demonstração da Plataforma
 <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif" alt="gif-das-paginas" style="width: 600px; height: auto;">
 
-[**- Confira o vídeo completo da demonstração clicando aqui**](https://youtu.be/Cr8yooCzASA)
+<div style="text-align: center;">
+  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif" alt="gif-das-paginas" style="width: 600px; height: auto;">
+</div>
+
+[**Confira o vídeo completo da demonstração clicando aqui**](https://youtu.be/Cr8yooCzASA)
 
 ## Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
