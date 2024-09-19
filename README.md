@@ -42,11 +42,9 @@ sobre a conectividade e a segurança de dados. Motivada por uma busca incessante
 - [LinkedIn](https://www.linkedin.com/in/debora-faria2109/)
 
 ### Meus Projetos
-O primeiro projeto de API no qual colaborei foi desenvolvido em parceria com um professor, que atuou como representante de uma empresa fictícia. O objetivo do projeto foi criar uma 
-plataforma para a venda de conteúdos didáticos. Os temas abordados incluíam Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Inglesa, Língua Portuguesa 
-(Pontuação e Concordância), Lógica de Programação e Matemática Discreta.
+| Semestre                                               | Descrição                                                |
+|--------------------------------------------------------|----------------------------------------------------------|
+| [1º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | Plataforma para a comercialização de conteúdos didáticos |
 
-A plataforma oferecia funcionalidades essenciais para o administrador, como a geração de relatórios de vendas com visualizações gráficas, facilitando a interpretação dos dados. Além 
-disso, o administrador podia gerenciar os conteúdos disponíveis, adicionando ou removendo materiais, acessar uma visão ampla dos usuários, consultar o histórico de compras e verificar as 
-formas de pagamento utilizadas, entre outras funcionalidades.
+
 
