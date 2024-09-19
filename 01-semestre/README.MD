@@ -11,19 +11,24 @@ de compras e verificar as formas de pagamento utilizadas, entre outras funcional
 ### Páginas: Políticas, Termos, Sobre Nós e Contato
 <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif" alt="gif-das-paginas" style="width: 600px; height: auto;">
 
-[**Confira o vídeo completo da demonstração clicando aqui**](https://youtu.be/Cr8yooCzASA)
+[**-Confira o vídeo completo da demonstração clicando aqui**](https://youtu.be/Cr8yooCzASA)
 
 ## Tecnologias Utilizadas
-- **Draw.io**: Utilizado para o desenvolvimento de protótipos.
+
+### Front-end
 - **HTML**: Desenvolvimento do front-end.
 - **CSS**: Estilização e design no front-end.
 - **JavaScript**: Implementação de interatividade no front-end.
+
+### Back-end
 - **PHP**: Desenvolvimento da lógica e funcionalidades no back-end.
+- **MySQL**: Banco de dados utilizado para armazenar e alterar dados.
+
+### Outros
+- **Draw.io**: Utilizado para o desenvolvimento de protótipos.
 - **XAMPP**: Servidor local para testar e hospedar a aplicação.
-- **MySQL**: Banco de dados.
 
 ## Ferramentas Utilizadas na Produção de Vídeos Didáticos
-
 - **OpenShot Video Editor**: Edição de vídeos.
 - **oCam**: Gravação de tela.
 - **OBS Studio**: Gravação e transmissão de vídeos.
