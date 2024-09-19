@@ -9,14 +9,10 @@ de compras e verificar as formas de pagamento utilizadas, entre outras funcional
 
 ## Demonstração das Páginas
 
-<details>
- <summary>▶️ Clique aqui para ver o GIF</summary>
 ### Páginas: Políticas, Termos, Sobre Nós e Contato
 ![gif-das-paginas](https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif)
-</details>
 
-### Relatório de Vendas
-![gif-relatorio](https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/relatorio_vendas.gif)
+<img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif" alt="gif-das-paginas" width="400">
 
-### Cadastro de Conteúdos
-![gif-cadastro-conteudos](https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/cadastro_conteudos.gif)
+
+[Vídeo demonstração completo](https://youtu.be/Cr8yooCzASA)
