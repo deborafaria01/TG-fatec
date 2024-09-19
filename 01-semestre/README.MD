@@ -13,7 +13,6 @@ de compras e verificar as formas de pagamento utilizadas, entre outras funcional
 </p>
 
 [**Confira o vídeo completo da demonstração clicando aqui**](https://youtu.be/Cr8yooCzASA)
-</p>
 
 ## Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
