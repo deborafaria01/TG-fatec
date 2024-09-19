@@ -17,9 +17,7 @@ envolvi em eventos da área. Esse novo caminho despertou uma paixão, levando-me
 </p>
 
 <p>
-Atualmente, atuo no desenvolvimento de diversos projetos na área de cibersegurança, incluindo a criação de honeypots, projetados para atrair e monitorar atividades maliciosas. Também me 
-dedico à implementação de plataformas de SIEM (Security Information and Event Management), que proporcionam soluções integradas para o monitoramento e a gestão de eventos de segurança. 
-Além disso, foco na criação de regras avançadas para a detecção de ameaças e incidentes, assegurando respostas rápidas e eficazes.
+Atualmente, estudo e desenvolvo de forma independente diversos projetos na área de cibersegurança, com o objetivo de aprimorar meus conhecimentos. Entre esses projetos, destaco a criação de honeypots, projetados para atrair e monitorar atividades maliciosas. Também me dedico à implementação de plataformas de SIEM (Security Information and Event Management), que proporcionam soluções integradas para o monitoramento e a gestão de eventos de segurança. Além disso, foco na criação de regras avançadas para a detecção de ameaças e incidentes, garantindo respostas rápidas e eficazes.
 </p>
 
 <p>
