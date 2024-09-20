@@ -4,7 +4,7 @@
   <img src="https://github.com/deborafaria01/TG-fatec/blob/main/H2HC%202023.jpeg" alt="H2HC 2023" width="190" align="right" style="margin-left: 20px;">
   <p>
     
-### Introdução
+## Introdução
 Sou graduanda em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal. Atualmente, estou me especializando na área de 
 cibersegurança, participando ativamente de competições de CTFs (Capture the Flag), tanto nas modalidades de ataque quanto de defesa, o que me levou a conquistar uma posição entre os 2% 
 melhores competidores na plataforma TryHackMe, uma das maiores do mundo no setor.
@@ -26,7 +26,7 @@ desenvolvimento de seis projetos, cada um realizado a cada semestre, refletindo 
 </p>
 
 
-### Meus Principais Conhecimentos
+## Meus Principais Conhecimentos
 Ao longo da minha trajetória, desenvolvi uma sólida base de conhecimentos técnicos, abrangendo diversas áreas da tecnologia da informação. Tenho experiência em programação, com domínio 
 de linguagens como Python e Java, aplicadas em projetos variados, desde desenvolvimento de APIs até automação de processos. Minha expertise também inclui o gerenciamento e a modelagem de 
 bancos de dados, utilizando tecnologias como SQL para manipulação e análise de dados em grandes volumes, sempre com foco em eficiência e segurança.
@@ -35,12 +35,12 @@ Além disso, possuo habilidades em redes de computadores, compreendendo tanto a 
 sobre a conectividade e a segurança de dados. Motivada por uma busca incessante por conhecimento na área de cibersegurança, estou sempre aprimorando minhas habilidades para identificar, 
 mitigar e responder a ameaças. 
 
-### Contatos
+## Contatos
 - [Github](https://github.com/deborafaria01)
 
 - [LinkedIn](https://www.linkedin.com/in/debora-faria2109/)
 
-### Meus Projetos
+## Meus Projetos
 
 <div align="center">
 
