@@ -44,7 +44,7 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 - **Keynote**: Criação de apresentações visuais (disponível no macOS).
 
 ## Contribuições Pessoais
-Como desenvolvedora, atuei em várias etapas deste projeto, desde a criação do protótipo até o desenvolvimento completo do front-end e back-end. No front-end, implementei a interface 
+Como desenvolvedora, atuei em várias etapas deste projeto, desde a criação do protótipo até o desenvolvimento do front-end e back-end. No front-end, implementei a interface 
 usando HTML, CSS e JavaScript, focando em uma experiência de usuário simples e eficiente. No back-end, desenvolvi a lógica da aplicação utilizando PHP, garantindo o funcionamento da 
 plataforma conforme as necessidades do projeto. Além do desenvolvimento, também fui responsável pela criação dos conteúdos didáticos, tanto em formato PDF quanto em vídeos. Esse material 
 foi essencial para enriquecer a proposta da plataforma, proporcionando aos usuários suporte educacional de qualidade.
