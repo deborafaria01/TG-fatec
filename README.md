@@ -41,9 +41,6 @@ mitigar e responder a ameaças.
 - [LinkedIn](https://www.linkedin.com/in/debora-faria2109/)
 
 ### Meus Projetos
-| Semestre                                               | Descrição                                                |
-|--------------------------------------------------------|----------------------------------------------------------|
-| [1º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | Plataforma para a comercialização de conteúdos didáticos |
 
 <div align="center">
 
