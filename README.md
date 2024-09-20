@@ -1,7 +1,7 @@
 # Debora Conceição Faria
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/H2HC%202023.jpeg" alt="H2HC 2023" width="195" align="right" style="margin-left: 30px;">
+  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/H2HC%202023.jpeg" alt="H2HC 2023" width="195" align="right" style="margin-left: 80px;">
   <p>
     
 ### Introdução
