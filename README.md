@@ -42,13 +42,11 @@ mitigar e responder a ameaças.
 
 ### Meus Projetos
 
-<div align="center">
-
 | Semestre                                               | Descrição                                                |
 |--------------------------------------------------------|----------------------------------------------------------|
 | [1º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | Plataforma para a comercialização de conteúdos didáticos |
 
-</div>
+
 
 
 
