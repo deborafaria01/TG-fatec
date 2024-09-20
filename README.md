@@ -32,17 +32,20 @@ de linguagens como Python e Java, aplicadas em projetos variados, desde desenvol
 bancos de dados, utilizando tecnologias como SQL para manipulação e análise de dados em grandes volumes, sempre com foco em eficiência e segurança.
 
 Além disso, possuo habilidades em redes de computadores, compreendendo tanto a configuração quanto a manutenção de infraestruturas de rede, o que me proporciona uma visão abrangente 
-sobre a conectividade e a segurança de dados. Motivada por uma busca incessante por conhecimento na área de cibersegurança, estou sempre aprimorando minhas habilidades para identificar, mitigar e responder a ameaças. 
+sobre a conectividade e a segurança de dados. Motivada por uma busca incessante por conhecimento na área de cibersegurança, estou sempre aprimorando minhas habilidades para identificar, 
+mitigar e responder a ameaças. 
+
+### Contatos
+- [Github](https://github.com/deborafaria01)
+
+- [LinkedIn](https://www.linkedin.com/in/debora-faria2109/)
 
 ### Meus Projetos
 | Semestre                                               | Descrição                                                |
 |--------------------------------------------------------|----------------------------------------------------------|
 | [1º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | Plataforma para a comercialização de conteúdos didáticos |
 
-### Contatos
-- [Github](https://github.com/deborafaria01)
 
-- [LinkedIn](https://www.linkedin.com/in/debora-faria2109/)
 
 
 
