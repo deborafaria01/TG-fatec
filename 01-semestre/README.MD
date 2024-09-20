@@ -1,4 +1,4 @@
-## Primeiro Semestre - API
+## Primeiro Semestre 
 Este projeto foi desenvolvido em colaboração com professores que representaram uma empresa fictícia. O objetivo era criar uma plataforma para a venda de conteúdos didáticos, abrangendo 
 temas como Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Inglesa, Língua Portuguesa (Pontuação e Concordância), Lógica de Programação e Matemática Discreta.
 
