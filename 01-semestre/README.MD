@@ -57,12 +57,16 @@ foi essencial para enriquecer a proposta da plataforma, proporcionando aos usuá
 - **Ferramentas de colaboração e versionamento**: Uso de GitHub para controle de versão.
 
 ## Soft Skills
-- **Trabalho em equipe**: Colaboração com outros desenvolvedores e professores durante o desenvolvimento do projeto.
-- **Comunicação**: Participação em reuniões e alinhamento de expectativas com a equipe e o cliente.
-- **Criatividade**: Criação de conteúdos didáticos e soluções para problemas técnicos.
-- **Autonomia**: Desenvolvimento de diversas áreas do projeto de forma independente.
-- **Organização**: Gerenciamento eficaz de múltiplas responsabilidades, desde o desenvolvimento até a produção de conteúdos.
-- **Resolução de problemas**: Superação de desafios técnicos e criativos durante o desenvolvimento da plataforma.
+- **Trabalho em equipe**: Saber trabalhar em equipe foi essencial para garantir o equilíbrio e a harmonia do grupo, especialmente diante de muitas ideias divergentes. Lidar com essas 
+diferenças de forma construtiva nos ajudou a cumprir as sprints dentro do prazo, mantendo o foco nos objetivos e na entrega de resultados.
+- **Criatividade**: Minha criatividade foi essencial no desenvolvimento do protótipo das páginas, onde busquei criar um design atrativo, minimalista e alinhado com as regras de 
+usabilidade, visando oferecer uma experiência fluida para o usuário. Além disso, na criação dos conteúdos didáticos, fui responsável por elaborar o roteiro, realizar a gravação e editar 
+o material de estudo sobre Pontuação da Língua Portuguesa. A qualidade desse material serviu de referência para os outros integrantes do grupo gravarem suas videoaulas, mantendo um 
+padrão elevado em toda a produção.
+- **Organização**: A organização foi crucial para que eu pudesse concluir todas as tarefas com sucesso, gerenciando múltiplas responsabilidades ao longo do projeto. Entre elas, estive 
+envolvida na prototipação, no desenvolvimento inicial do front-end, na organização e edição do repositório no GitHub, além da produção de conteúdos didáticos. Manter uma boa organização 
+foi essencial para garantir a entrega de cada etapa dentro dos prazos estabelecidos.
+
 
 
 
