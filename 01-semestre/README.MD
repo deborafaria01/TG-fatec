@@ -65,7 +65,7 @@ usabilidade, visando oferecer uma experiência fluida para o usuário. Além dis
 o material de estudo sobre Pontuação da Língua Portuguesa. A qualidade desse material serviu de referência para os outros integrantes do grupo gravarem suas videoaulas, mantendo um 
 padrão elevado em toda a produção.
 - **Organização**: A organização foi crucial para que eu pudesse concluir todas as tarefas com sucesso, gerenciando múltiplas responsabilidades ao longo do projeto. Entre elas, estive 
-envolvida na prototipação, no desenvolvimento inicial do front-end, na organização e edição do repositório no GitHub, além da produção de conteúdos didáticos. Manter uma boa organização 
+envolvida na prototipação, no desenvolvimento inicial do front-end e back-end, na organização e edição do repositório no GitHub, além da produção de conteúdos didáticos. Manter uma boa organização 
 foi essencial para garantir a entrega de cada etapa dentro dos prazos estabelecidos.
 
 
