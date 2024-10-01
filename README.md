@@ -45,11 +45,11 @@ mitigar e responder a ameaças.
 | Semestre                                               | Descrição                                                |
 |--------------------------------------------------------|----------------------------------------------------------|
 | [1º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | Plataforma para a comercialização de conteúdos didáticos |
-| [2º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/02-semestre) |  |
-| [3º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/03-semestre) |  |
-| [4º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/04-semestre) |  |
-| [5º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/05-semestre) |  |
-| [6º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/06-semestre) |  |
+| [2º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/02-semestre) | Solução para unificação e tratamento de dados de sistemas de gerenciamento de projetos |
+| [3º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/03-semestre) | Aplicação web de Customer Relationship Management |
+| [4º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/04-semestre) | Plataforma de gerenciamento de Recursos Humanos |
+| [5º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/05-semestre) | Aplicação híbrida de Serviço de Atendimento ao Cliente |
+| [6º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/06-semestre) | Plataforma de recrutamento e seleção de candidatos | 
 
 
 
