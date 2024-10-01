@@ -1,4 +1,4 @@
-## Primeiro Semestre 
+## Primeiro Semestre 2020-2
 
 Este projeto foi desenvolvido em colaboração com professores que representaram uma empresa fictícia. O objetivo era criar uma plataforma para a venda de conteúdos didáticos, abrangendo 
 temas como Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Inglesa, Língua Portuguesa (Pontuação e Concordância), Lógica de Programação e Matemática Discreta.
@@ -7,7 +7,7 @@ A plataforma oferece diversas funcionalidades essenciais para o administrador, c
 interpretação dos dados. Além disso, o administrador pode realizar outras ações, como adicionar e remover conteúdos, visualizar informações detalhadas dos usuários, consultar o histórico 
 de compras e verificar as formas de pagamento utilizadas, entre outras funcionalidades.
 
-## Demonstração da Plataforma
+## 🚀 Demonstração da Plataforma
 
 <p align="center">
   <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif" alt="gif-das-paginas" style="width: 600px; height: auto;">
@@ -15,7 +15,7 @@ de compras e verificar as formas de pagamento utilizadas, entre outras funcional
 
 [**Confira o vídeo completo da demonstração clicando aqui**](https://youtu.be/Cr8yooCzASA)
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 #### Front-end
@@ -43,13 +43,13 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 - **Pages**: Criação de documentos e conteúdo visual (disponível no macOS).
 - **Keynote**: Criação de apresentações visuais (disponível no macOS).
 
-## Contribuições Pessoais
+## ✨ Contribuições Pessoais
 Como desenvolvedora, atuei em várias etapas deste projeto, desde a criação do protótipo até o desenvolvimento do front-end e back-end. No front-end, implementei a interface 
 usando HTML, CSS e JavaScript, focando em uma experiência de usuário simples e eficiente. No back-end, desenvolvi a lógica da aplicação utilizando PHP, garantindo o funcionamento da 
 plataforma conforme as necessidades do projeto. Além do desenvolvimento, também fui responsável pela criação dos conteúdos didáticos, tanto em formato PDF quanto em vídeo. Esse material 
 foi essencial para enriquecer a proposta da plataforma, proporcionando aos usuários suporte educacional de qualidade.
 
-## Hard Skills
+## 🛠️ Hard Skills
 - **Desenvolvimento de protótipos**: Uso de ferramentas como Draw.io para criação de protótipos.
 - **Front-end**: HTML, CSS, JavaScript para desenvolvimento da interface de usuário.
 - **Back-end**: PHP para a lógica de negócio e funcionamento da aplicação.
@@ -57,7 +57,7 @@ foi essencial para enriquecer a proposta da plataforma, proporcionando aos usuá
 - **Desenvolvimento de plataformas web**: Integração de componentes e funcionalidades de uma aplicação completa.
 - **Ferramentas de colaboração e versionamento**: Uso de GitHub para controle de versão.
 
-## Soft Skills
+## 🌱 Soft Skills
 - **Trabalho em equipe**: Saber trabalhar em equipe foi essencial para garantir o equilíbrio e a harmonia do grupo, especialmente diante de muitas ideias divergentes. Lidar com essas 
 diferenças de forma construtiva nos ajudou a cumprir as sprints dentro do prazo, mantendo o foco nos objetivos e na entrega de resultados.
 - **Criatividade**: Minha criatividade foi essencial no desenvolvimento do protótipo das páginas, onde busquei criar um design atrativo, minimalista e alinhado com as regras de 
