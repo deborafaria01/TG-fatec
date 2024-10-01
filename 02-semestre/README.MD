@@ -1,4 +1,4 @@
-## Segundo Semestre 
+## Segundo Semestre 2021-1
 
 Projeto desenvolvido em parceria com a GSW, empresa com mais de 29 anos de experiência em desenvolvimento de software. O desafio foi criar uma solução que unificasse e tratasse os dados 
 dos sistemas de gerenciamento de projetos, apresentando as informações em um dashboard para acompanhamento do progresso dos projetos.
@@ -6,9 +6,9 @@ dos sistemas de gerenciamento de projetos, apresentando as informações em um d
 A solução proposta aproximou diretores e projetos, oferecendo uma visão detalhada e atualizada com insights baseados em dados reais, facilitando a tomada de decisões. Através de uma 
 aplicação web, as informações dos projetos foram apresentadas em forma de gráficos, proporcionando um acompanhamento mais visual e intuitivo.
 
-## Demonstração da Plataforma
+## 🚀 Demonstração da Plataforma
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 #### Front-end
@@ -28,8 +28,8 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 - **Jira Software**: Plataforma de gerenciamento ágil utilizada para planejamento, acompanhamento e gerenciamento de projetos e tarefas.
 - **MS Project**: Ferramenta de gerenciamento de projetos utilizada para planejamento, monitoramento de cronogramas e controle de recursos.
 
-## Contribuições Pessoais
+## ✨ Contribuições Pessoais
 
-## Hard Skills
+## 🛠️ Hard Skills
 
-## Soft Skills
+## 🌱 Soft Skills
