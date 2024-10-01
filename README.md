@@ -48,7 +48,7 @@ mitigar e responder a ameaças.
 | [2º Semestre - 2021-1](https://github.com/deborafaria01/TG-fatec/tree/main/02-semestre) | Solução para unificação e tratamento de dados de projetos |
 | [3º Semestre - 2021-2](https://github.com/deborafaria01/TG-fatec/tree/main/03-semestre) | Plataforma web de Customer Relationship Management (CRM) |
 | [4º Semestre - 2022-2](https://github.com/deborafaria01/TG-fatec/tree/main/04-semestre) | Plataforma para gestão de RH |
-| [5º Semestre - 2023-1](https://github.com/deborafaria01/TG-fatec/tree/main/05-semestre) | Aplicação híbrida de Serviço de Atendimento ao Cliente |
+| [5º Semestre - 2023-1](https://github.com/deborafaria01/TG-fatec/tree/main/05-semestre) | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
 | [6º Semestre - 2023-2](https://github.com/deborafaria01/TG-fatec/tree/main/06-semestre) | Plataforma de recrutamento e seleção de candidatos | 
 
 
