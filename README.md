@@ -45,6 +45,11 @@ mitigar e responder a ameaças.
 | Semestre                                               | Descrição                                                |
 |--------------------------------------------------------|----------------------------------------------------------|
 | [1º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | Plataforma para a comercialização de conteúdos didáticos |
+| [2º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/02-semestre) |  |
+| [3º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/03-semestre) |  |
+| [4º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/04-semestre) |  |
+| [5º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/05-semestre) |  |
+| [6º Semestre](https://github.com/deborafaria01/TG-fatec/tree/main/06-semestre) |  |
 
 
 
