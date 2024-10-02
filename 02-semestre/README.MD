@@ -1,4 +1,4 @@
-## Segundo Semestre 2021-1
+## 📝 Segundo Semestre 2021-1
 
 Este projeto foi desenvolvido em parceria com a GSW, uma empresa com mais de 29 anos de experiência em desenvolvimento de software. O desafio consistiu em criar uma solução capaz de 
 unificar e processar os dados dos sistemas de gerenciamento de projetos, apresentando essas informações de forma clara e acessível em um dashboard para acompanhamento do progresso.
