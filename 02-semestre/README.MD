@@ -8,6 +8,10 @@ aplicação web, as informações dos projetos foram apresentadas em forma de gr
 
 ## 🚀 Demonstração da Plataforma
 
+![](https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/first-access.gif)
+
+[Vídeo no Youtube](https://www.youtube.com/watch?v=8j8ktkdrvd4)
+
 ## 💻 Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
