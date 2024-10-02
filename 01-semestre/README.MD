@@ -13,7 +13,7 @@ de compras e verificar as formas de pagamento utilizadas, entre outras funcional
   <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif" alt="gif-das-paginas" style="width: 600px; height: auto;">
 </p>
 
-[**Confira o vídeo completo da demonstração clicando aqui**](https://youtu.be/Cr8yooCzASA)
+[**Veja o vídeo completo da demonstração clicando aqui**](https://youtu.be/Cr8yooCzASA)
 
 ## 💻 Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
