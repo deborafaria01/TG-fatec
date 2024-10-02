@@ -2,11 +2,10 @@
 
 Este projeto foi desenvolvido em parceria com a empresa Ionic Health, que se destaca por desenvolver soluções de automação e transformação digital voltadas para a medicina diagnóstica, 
 com foco em teleoperação, monitoramento remoto e inteligência artificial. Suas plataformas permitem o controle remoto de equipamentos de diagnóstico, como tomógrafos e ressonância 
-magnética, além de oferecer serviços de geração de relatórios médicos automatizados, com reconhecimento de voz para elaboração de laudos. 
-
-O desafio foi desenvolver uma aplicação web de Customer Relationship Management (Gestão de Relacionamento com o Cliente) com o objetivo de otimizar a organização 
-dos processos comerciais, fornecendo suporte eficiente para as áreas de vendas e negócios da empresa parceira. A solução visou aprimorar a gestão de dados de clientes, facilitar o 
-acompanhamento das interações comerciais e aumentar a eficácia das estratégias de vendas, garantindo uma abordagem mais estruturada e produtiva.
+magnética, além de oferecer serviços de geração de relatórios médicos automatizados, com reconhecimento de voz para elaboração de laudos. O desafio foi desenvolver uma aplicação web de 
+Customer Relationship Management (Gestão de Relacionamento com o Cliente) com o objetivo de otimizar a organização dos processos comerciais, fornecendo suporte eficiente para as áreas de 
+vendas e negócios da empresa parceira. A solução visou aprimorar a gestão de dados de clientes, facilitar o acompanhamento das interações comerciais e aumentar a eficácia das estratégias 
+de vendas, garantindo uma abordagem mais estruturada e produtiva.
 
 A solução desenvolvida pela equipe é uma aplicação web para gerenciar de forma eficiente o relacionamento com clientes. A plataforma organiza e edita contatos, gerencia pipelines e 
 negociações, e monitora o relacionamento de forma estratégica. Além disso, permite a importação de arquivos de contatos e apresenta as negociações em um dashboard interativo, facilitando 
