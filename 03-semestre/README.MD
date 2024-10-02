@@ -16,7 +16,7 @@ o acompanhamento do progresso e proporcionando suporte completo para as áreas d
 
 [- Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/api-sem3-target-crm/tree/main)
 
-Acesse a aplicação através do link: https://targetcrm.vercel.app/
+[- Clique aqui para acessar a aplicação.](https://targetcrm.vercel.app/)
 
 ## 💻 Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
