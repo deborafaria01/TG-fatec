@@ -5,7 +5,7 @@ unificar e processar os dados dos sistemas de gerenciamento de projetos, apresen
 
 A solução proposta facilitou a interação entre diretores, gestores e equipes de projetos, oferecendo uma visão detalhada e atualizada, com insights baseados em dados reais, o que 
 contribuiu para uma tomada de decisões mais precisa. Através de uma aplicação web, os dados dos projetos foram apresentados por meio de gráficos, proporcionando um acompanhamento visual 
-e intuitivo. Ao realizar o upload de arquivos .json, os dados foram integrados ao banco de dados, gerando dashboards sobre Projetos, Desenvolvedores, Tasks e Horas trabalhadas.
+e intuitivo. Ao realizar o upload de arquivos .json, os dados foram integrados ao banco de dados, gerando dashboards sobre Projetos, Desenvolvedores, Tasks e Horas Trabalhadas.
 
 ## 🚀 Demonstração da Plataforma
 
