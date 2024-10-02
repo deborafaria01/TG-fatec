@@ -9,7 +9,9 @@ e intuitivo. Ao realizar o upload de arquivos .json, os dados foram integrados a
 
 ## 🚀 Demonstração da Plataforma
 
+<p align="center">
 ![](https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/first-access.gif)
+</p>
 
 [- Clique aqui para assistir ao vídeo completo da demonstração.](https://www.youtube.com/watch?v=8j8ktkdrvd4)
 
