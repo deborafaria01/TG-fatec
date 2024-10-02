@@ -1,6 +1,7 @@
 ## 📝 Segundo Semestre 2021-1
 
-Este projeto foi desenvolvido em parceria com a GSW, uma empresa com mais de 29 anos de experiência em desenvolvimento de software. O desafio consistiu em criar uma solução capaz de 
+Este projeto foi desenvolvido em colaboração com a GSW, uma empresa com mais de 29 anos de expertise no desenvolvimento de soluções de software para gestão empresarial, com atuação em 
+áreas como ERP (SAP e Microsoft Dynamics), gestão tributária, automação de processos fiscais, comércio exterior e CRM. O desafio consistiu em criar uma solução capaz de 
 unificar e processar os dados dos sistemas de gerenciamento de projetos, apresentando essas informações de forma clara e acessível em um dashboard para acompanhamento do progresso.
 
 A solução proposta facilitou a interação entre diretores, gestores e equipes de projetos, oferecendo uma visão detalhada e atualizada, com insights baseados em dados reais, o que 
