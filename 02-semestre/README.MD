@@ -45,12 +45,11 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 <p align="justify">
 Como Product Owner, fui responsável por garantir uma comunicação eficaz entre a equipe e o cliente, assegurando que as expectativas fossem alinhadas e as necessidades do cliente fossem 
-compreendidas e priorizadas. Além disso, atuei na gestão e aprovação do backlog, garantindo que os itens estivessem alinhados com os objetivos do projeto e as prioridades de negócio.
+compreendidas e priorizadas. Além disso, atuei na gestão e aprovação do backlog, garantindo que os itens estivessem alinhados com os objetivos do projeto e as prioridades de negócio. 
 Também fui responsável pela elaboração e aprovação de documentos essenciais, como o Termo de Abertura do Projeto, a Declaração de Escopo, o Plano de Gerenciamento do Cronograma e o Plano 
 de Gerenciamento dos Custos. Participei ativamente na criação e validação dos protótipos de telas para as versões mobile e desktop, assegurando que as interfaces fossem intuitivas e 
-funcionais, de acordo com as necessidades dos usuários.
-Minhas responsabilidades incluíram ainda a edição e organização dos repositórios no GitHub, garantindo que o versionamento do código fosse estruturado e acessível para todos os membros 
-da equipe. 
+funcionais, de acordo com as necessidades dos usuários. Minhas responsabilidades incluíram ainda a edição e organização dos repositórios no GitHub, garantindo que o versionamento do 
+código fosse estruturado e acessível para todos os membros da equipe. 
 </p>
 
 ## 🛠️ Hard Skills
