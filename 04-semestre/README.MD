@@ -14,7 +14,7 @@ acesso conforme a função de cada usuário.
   <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/Cliente_Cadastro.gif">
 </p>
 
-[- Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/2RP)
+[→ Link para o repositório do projeto no GitHub](https://github.com/deborafaria01/2RP)
 
 ## 💻 Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
