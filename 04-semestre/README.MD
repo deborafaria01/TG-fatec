@@ -10,10 +10,9 @@ acesso conforme a função de cada usuário.
 
 ## 🚀 Demonstração da Plataforma
 
-
- ![Cr_Editar](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cr_Editar.gif)
-
-
+<p align="center">
+  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/Cliente_Cadastro.gif" style="width: 600px; height: auto;">
+</p>
 
 [- Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/2RP)
 
