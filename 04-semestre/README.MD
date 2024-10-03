@@ -41,7 +41,7 @@ integridade de dados e consultas complexas.
 
 Nesse projeto, atuei como desenvolvedora no front-end usando React e TypeScript para criar uma interface prática e fácil de usar. Fui responsável por desenvolver as telas principais 
 do sistema de controle de jornada, garantindo que a interface fosse responsiva e atendesse ao design proposto. O objetivo era deixar tudo o mais claro e simples possível para que os 
-gestores pudessem navegar sem complicações.
+usuários pudessem navegar sem complicações.
 
 Além disso, implementei dashboards interativos que mostravam dados como horas trabalhadas, horas extras e sobreavisos de maneira bem visual, o que facilitou muito o acompanhamento das 
 métricas. Isso ajudou os gestores a terem uma visão clara e em tempo real de tudo que estava acontecendo.
