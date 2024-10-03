@@ -4,8 +4,9 @@ Este projeto foi desenvolvido em parceria com a 2RP, uma empresa especializada e
 recursos humanos, finanças e operações. O desafio foi criar um sistema robusto para o controle da jornada de trabalho dos colaboradores, capaz de identificar e classificar horas extras, 
 controlar tanto as horas extras quanto os sobreavisos, além de integrar-se com a plataforma ADP para consumo de dados dos colaboradores. 
 
-A solução proposta foi uma plataforma eficiente que gerencia desde o cadastro até o monitoramento das jornadas e horas extras, garantindo uma visão clara e padronizada de todas as 
-informações. Essa solução facilita a gestão de recursos humanos, melhora a eficiência dos processos e garante o cumprimento das regulamentações de trabalho.
+A solução proposta foi uma plataforma eficiente, que gerencia desde o cadastro até o monitoramento das jornadas e horas extras, garantindo uma visão clara e padronizada de todas as 
+informações. Essa solução facilita a gestão de recursos humanos, melhora a eficiência dos processos, assegura o cumprimento das regulamentações de trabalho e permite diferentes níveis de 
+acesso conforme a função de cada usuário.
 
 ## 🚀 Demonstração da Plataforma
 
