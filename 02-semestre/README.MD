@@ -51,13 +51,13 @@ Minhas responsabilidades incluíram ainda a edição e organização dos reposit
 
 ## 🛠️ Hard Skills
 
-- **JavaScript**: Uso com autonomia;
-- **Vue.js**: Uso com autonomia;
-- **Node.js**: Uso com autonomia;
-- **PostgreSQL**: Uso com ajuda;
-- **Figma**: Uso com autonomia;
-- **Jira Software**: Uso com ajuda;
-- **MS Project**: Uso com autonomia;
+- **JavaScript**: Uso com autonomia.
+- **Vue.js**: Uso com autonomia.
+- **Node.js**: Uso com autonomia.
+- **PostgreSQL**: Uso com ajuda.
+- **Figma**: Uso com autonomia.
+- **Jira Software**: Uso com ajuda.
+- **MS Project**: Uso com autonomia.
 
 ## 🌱 Soft Skills
 
