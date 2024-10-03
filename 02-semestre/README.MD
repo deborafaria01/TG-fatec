@@ -14,9 +14,9 @@ e intuitivo. Ao realizar o upload de arquivos .json, os dados foram integrados a
   <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/first-access.gif" style="width: 650px; height: auto;">
 </p>
 
-[- Clique aqui para assistir ao vídeo completo da demonstração.](https://www.youtube.com/watch?v=8j8ktkdrvd4)
+[→ Clique aqui para assistir ao vídeo completo da demonstração](https://www.youtube.com/watch?v=8j8ktkdrvd4)
 
-[- Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/api-fatec-2s-gswatcher/tree/main)
+[→ Link para o repositório do projeto no GitHub](https://github.com/deborafaria01/api-fatec-2s-gswatcher/tree/main)
 
 ## 💻 Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
