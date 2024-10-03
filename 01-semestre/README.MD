@@ -54,12 +54,13 @@ plataforma conforme as necessidades do projeto. Além do desenvolvimento, també
 foi essencial para enriquecer a proposta da plataforma, proporcionando aos usuários suporte educacional de qualidade.
 
 ## 🛠️ Hard Skills
-- **Desenvolvimento de protótipos**: Uso de ferramentas como Draw.io para criação de protótipos.
-- **Front-end**: HTML, CSS, JavaScript para desenvolvimento da interface de usuário.
-- **Back-end**: PHP para a lógica de negócio e funcionamento da aplicação.
-- **Produção de conteúdo didático**: Criação de materiais em PDF e vídeos explicativos.
-- **Desenvolvimento de plataformas web**: Integração de componentes e funcionalidades de uma aplicação completa.
-- **Ferramentas de colaboração e versionamento**: Uso de GitHub para controle de versão.
+- **HTML**: Uso com autonomia.
+- **CSS**: Uso com autonomia.
+- **JavaScript**: Uso com autonomia.
+- **PHP**: Uso com autonomia.
+- **MySQL**: Uso com autonomia.
+- **XAMPP**: Uso com ajuda.
+- **GitHub**: Uso com autonomia.
 
 ## 🌱 Soft Skills
 - **Trabalho em equipe**: Saber trabalhar em equipe foi essencial para garantir o equilíbrio e a harmonia do grupo, especialmente diante de muitas ideias divergentes. Lidar com essas 
@@ -69,8 +70,8 @@ usabilidade, visando oferecer uma experiência fluida para o usuário. Além dis
 o material de estudo sobre Pontuação da Língua Portuguesa. A qualidade desse material serviu de referência para os outros integrantes do grupo gravarem suas videoaulas, mantendo um 
 padrão elevado em toda a produção.
 - **Organização**: A organização foi crucial para que eu pudesse concluir todas as tarefas com sucesso, gerenciando múltiplas responsabilidades ao longo do projeto. Entre elas, estive 
-envolvida na prototipação, no desenvolvimento inicial do front-end e back-end, na organização e edição do repositório no GitHub, além da produção de conteúdos didáticos. Manter uma boa organização 
-foi essencial para garantir a entrega de cada etapa dentro dos prazos estabelecidos.
+envolvida na prototipação, no desenvolvimento inicial do front-end e back-end, na organização e edição do repositório no GitHub, além da produção de conteúdos didáticos. Manter uma boa 
+organização foi essencial para garantir a entrega de cada etapa dentro dos prazos estabelecidos.
 
 
 
