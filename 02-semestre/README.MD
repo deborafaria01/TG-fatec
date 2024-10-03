@@ -1,12 +1,15 @@
 ## 📝 Segundo Semestre 2021-1
-
+<p align="justify">
 Este projeto foi desenvolvido em colaboração com a GSW, uma empresa com mais de 29 anos de expertise no desenvolvimento de soluções de software para gestão empresarial, com atuação em 
 áreas como ERP (SAP e Microsoft Dynamics), gestão tributária, automação de processos fiscais, comércio exterior e CRM. O desafio consistiu em criar uma solução capaz de 
 unificar e processar os dados dos sistemas de gerenciamento de projetos, apresentando essas informações de forma clara e acessível em um dashboard para acompanhamento do progresso.
+</p>
 
+<p align="justify">
 A solução proposta facilitou a interação entre diretores, gestores e equipes de projetos, oferecendo uma visão detalhada e atualizada, com insights baseados em dados reais, o que 
 contribuiu para uma tomada de decisões mais precisa. Através de uma aplicação web, os dados dos projetos foram apresentados por meio de gráficos, proporcionando um acompanhamento visual 
 e intuitivo. Ao realizar o upload de arquivos .json, os dados foram integrados ao banco de dados, gerando dashboards sobre Projetos, Desenvolvedores, Tasks e Horas Trabalhadas.
+</p>
 
 ## 🚀 Demonstração da Plataforma
 
@@ -40,6 +43,7 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 ## ✨ Contribuições Pessoais
 
+<p align="justify">
 Como Product Owner, fui responsável por garantir uma comunicação eficaz entre a equipe e o cliente, assegurando que as expectativas fossem alinhadas e as necessidades do cliente fossem 
 compreendidas e priorizadas. Além disso, atuei na gestão e aprovação do backlog, garantindo que os itens estivessem alinhados com os objetivos do projeto e as prioridades de negócio.
 
@@ -48,6 +52,7 @@ de Gerenciamento dos Custos. Participei ativamente na criação e validação do
 funcionais, de acordo com as necessidades dos usuários.
 
 Minhas responsabilidades incluíram ainda a edição e organização dos repositórios no GitHub, garantindo que o versionamento do código fosse estruturado e acessível para todos os membros da equipe. 
+</p>
 
 ## 🛠️ Hard Skills
 
