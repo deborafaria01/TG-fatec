@@ -11,12 +11,12 @@ de compras e verificar as formas de pagamento utilizadas, entre outras funcional
 ## 🚀 Demonstração da Plataforma
 
 <p align="center">
-  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif" alt="gif-das-paginas" style="width: 600px; height: auto;">
+  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif">
 </p>
 
-[- Clique aqui para assistir ao vídeo completo da demonstração.](https://youtu.be/Cr8yooCzASA)
+[→ Clique aqui para assistir ao vídeo completo da demonstração](https://youtu.be/Cr8yooCzASA)
 
-[- Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/projetoIntegrador_hephaestus_academy)
+[→ Link para o repositório do projeto no GitHub](https://github.com/deborafaria01/projetoIntegrador_hephaestus_academy)
 
 
 ## 💻 Tecnologias Utilizadas
