@@ -11,7 +11,7 @@ de compras e verificar as formas de pagamento utilizadas, entre outras funcional
 ## 🚀 Demonstração da Plataforma
 
 <p align="center">
-  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif" style="width: 600px; height: auto;">
+  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/termos_politica_contato.gif" style="width: 700px; height: auto;">
 </p>
 
 [→ Clique aqui para assistir ao vídeo completo da demonstração](https://youtu.be/Cr8yooCzASA)
