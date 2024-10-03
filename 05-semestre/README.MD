@@ -29,7 +29,7 @@ integrar de forma ágil com o front-end e diferentes serviços.
 
 #### Banco de Dados
 - **MongoDB**: Banco de dados NoSQL orientado a documentos, ideal para lidar com grandes volumes de dados não estruturados, oferecendo alta escalabilidade e flexibilidade, facilitando o 
-armazenamento e a recuperação de dados em tempo real em aplicações modernas.
+armazenamento e a recuperação de dados em tempo real.
 
 ## ✨ Contribuições Pessoais
 Nesse projeto, atuei como desenvolvedora, utilizando React Native para criar a interface do aplicativo móvel que centraliza o atendimento ao cliente. Fui responsável pela implementação 
