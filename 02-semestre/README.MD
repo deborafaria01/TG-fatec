@@ -51,6 +51,14 @@ Minhas responsabilidades incluíram ainda a edição e organização dos reposit
 
 ## 🛠️ Hard Skills
 
+- **JavaScript**: Uso com autonomia;
+- **Vue.js**: Uso com autonomia;
+- **Node.js**: Uso com autonomia;
+- **PostgreSQL**: Uso com ajuda;
+- **Figma**: Uso com autonomia;
+- **Jira Software**: Uso com ajuda;
+- **MS Project**: Uso com autonomia;
+
 ## 🌱 Soft Skills
 
 - **Trabalho em equipe:** Manter uma boa comunicação entre a equipe e o cliente foi fundamental para garantir que todos estivessem alinhados em relação às expectativas e necessidades do 
