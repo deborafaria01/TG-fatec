@@ -15,7 +15,7 @@ dispositivos móveis quanto em desktop, otimizando o fluxo de trabalho e melhora
 ## 🚀 Demonstração da Plataforma
 
 <p align="center">
-  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/LoginAdmin.gif" width="80%">
+  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/LoginAdmin.gif" width="90%">
 </p>
 
 [→ Link para o repositório do projeto no GitHub](https://github.com/deborafaria01/Reportify_Doc)
