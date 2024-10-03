@@ -10,9 +10,9 @@ acesso conforme a função de cada usuário.
 
 ## 🚀 Demonstração da Plataforma
 
-<p align="center">
+
  ![Cr_Editar](https://github.com/Inodevs-4/2RP/blob/main/Sprint%203/Gifs/Cr_Editar.gif)
-</p>
+
 
 
 [- Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/2RP)
