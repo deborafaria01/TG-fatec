@@ -18,7 +18,11 @@ Minha trajetória na tecnologia começou de forma inesperada. Após três anos c
 </p>
 
 <p align="justify">
-Atualmente, estudo e desenvolvo de forma independente diversos projetos na área de cibersegurança, com o objetivo de aprimorar meus conhecimentos. Entre esses projetos, destaco a criação de honeypots, projetados para atrair e monitorar atividades maliciosas. Também me dedico à implementação de plataformas de SIEM (Security Information and Event Management), que proporcionam soluções integradas para o monitoramento e a gestão de eventos de segurança. Além disso, foco na criação de regras avançadas para a detecção de ameaças e incidentes, garantindo respostas rápidas e eficazes a possíveis vulnerabilidades, minimizando o impacto de ataques e assegurando a continuidade das operações.
+Atualmente, estudo e desenvolvo projetos independentes na área de cibersegurança, com o objetivo de expandir meus conhecimentos e habilidades técnicas. Entre esses projetos, destaco a 
+criação de honeypots, ferramentas projetadas para atrair e monitorar atividades maliciosas de maneira controlada. Paralelamente, me dedico à implementação de plataformas SIEM (Security 
+Information and Event Management), que oferecem soluções integradas para o monitoramento e a gestão centralizada de eventos de segurança. Meu foco está na criação de regras avançadas 
+para detecção proativa de ameaças e incidentes, assegurando respostas rápidas e eficazes, mitigando riscos, minimizando o impacto de possíveis ataques e garantindo a continuidade das 
+operações.
 </p>
 
 <p align="justify">
