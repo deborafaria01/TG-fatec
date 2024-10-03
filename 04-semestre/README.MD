@@ -29,11 +29,11 @@ performance.
 - **CSS3**: Linguagem de estilo responsável pelo layout e design visual das páginas, utilizando as mais novas propriedades de estilização e animações para criar interfaces responsivas e 
 atraentes.
 
-### Back-end:
+#### Back-end
 - **Node.js + TypeScript**: Ambiente de execução JavaScript no lado do servidor que, combinado com TypeScript, oferece um desenvolvimento mais seguro e robusto, permitindo a criação de 
 APIs e aplicações escaláveis com alta performance.
   
-### Banco de Dados:
+#### Banco de Dados
 - **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional, conhecido por sua estabilidade e suporte a uma ampla gama de tipos de dados, ideal para aplicações que exigem 
 integridade de dados e consultas complexas.
 
