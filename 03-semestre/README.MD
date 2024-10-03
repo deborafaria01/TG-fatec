@@ -1,12 +1,16 @@
 ## 📝 Terceiro Semestre 2021-2
 
+<p align="justify">
 Este projeto foi realizado em colaboração com a Ionic Health, uma empresa renomada por sua expertise em automação e transformação digital na medicina diagnóstica. O desafio consistiu em 
 desenvolver uma aplicação web de Customer Relationship Management (Gestão de Relacionamento com o Cliente), com o objetivo de otimizar a organização dos processos comerciais e oferecer 
 suporte eficiente para as áreas de vendas e negócios da empresa parceira.
+</p>
 
+<p align="justify">
 A solução desenvolvida pela equipe é uma aplicação web para gerenciar de forma eficiente o relacionamento com clientes. A plataforma organiza e edita contatos, gerencia pipelines e 
 negociações, e monitora o relacionamento de forma estratégica. Além disso, permite a importação de arquivos de contatos e apresenta as negociações em um dashboard interativo, facilitando 
 o acompanhamento do progresso e proporcionando suporte completo para as áreas de vendas e negócios.
+</p>
 
 ## 🚀 Demonstração da Plataforma
 
@@ -40,10 +44,12 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 ## ✨ Contribuições Pessoais
 
+<p align="justify">
 Nesse projeto, atuei como desenvolvedora de front-end, utilizando React, Next.js, Axios e TypeScript. Fui responsável pela construção das interfaces principais, garantindo que o design 
 enviado pela equipe de produto fosse implementado de forma fiel e responsiva. Além disso, trabalhei na implementação de dashboards interativos, proporcionando uma visualização clara e 
 acessível dos dados, o que facilitou o acompanhamento das métricas e resultados. Também colaborei na integração das funcionalidades com as APIs, assegurando que a comunicação entre o 
 front-end e o back-end ocorresse de maneira eficiente e otimizada.
+</p>
 
 ## 🛠️ Hard Skills
 
