@@ -1,4 +1,4 @@
-## 📝 Segundo Semestre 2021-1
+## 📝 2º Semestre 2021-1
 <p align="justify">
 Este projeto foi desenvolvido em colaboração com a GSW, uma empresa com mais de 29 anos de expertise no desenvolvimento de soluções de software para gestão empresarial, com atuação em 
 áreas como ERP (SAP e Microsoft Dynamics), gestão tributária, automação de processos fiscais, comércio exterior e CRM. O desafio consistiu em criar uma solução capaz de 
