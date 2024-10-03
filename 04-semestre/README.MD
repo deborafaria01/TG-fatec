@@ -1,4 +1,4 @@
-## 📝 Quarto Semestre 2022-2
+## 📝 Quarto Semestre 2022.2
 
 Este projeto foi desenvolvido em parceria com a 2RP, uma empresa especializada em soluções tecnológicas voltadas para a gestão empresarial, com foco na otimização de processos em 
 recursos humanos, finanças e operações. O desafio foi criar um sistema robusto para o controle da jornada de trabalho dos colaboradores, capaz de identificar e classificar horas extras, 
