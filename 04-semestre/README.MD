@@ -1,12 +1,16 @@
 ## 📝 Quarto Semestre 2022-2
 
+<p align="justify">
 Este projeto foi desenvolvido em parceria com a 2RP, uma empresa especializada em soluções tecnológicas voltadas para a gestão empresarial, com foco na otimização de processos em 
 recursos humanos, finanças e operações. O desafio foi criar um sistema robusto para o controle da jornada de trabalho dos colaboradores, capaz de identificar e classificar horas extras, 
 controlar tanto as horas extras quanto os sobreavisos, além de integrar-se com a plataforma ADP para consumo de dados dos colaboradores. 
+</p>
 
+<p align="justify">
 A solução proposta foi uma plataforma eficiente, que gerencia desde o cadastro até o monitoramento das jornadas e horas extras, garantindo uma visão clara e padronizada de todas as 
 informações. Essa solução facilita a gestão de recursos humanos, melhora a eficiência dos processos, assegura o cumprimento das regulamentações de trabalho e permite diferentes níveis de 
 acesso conforme a função de cada usuário.
+</p>
 
 ## 🚀 Demonstração da Plataforma
 
@@ -39,12 +43,12 @@ integridade de dados e consultas complexas.
 
 ## ✨ Contribuições Pessoais
 
+<p align="justify">
 Nesse projeto, atuei como desenvolvedora no front-end usando React e TypeScript para criar uma interface prática e fácil de usar. Fui responsável por desenvolver as telas principais 
 do sistema de controle de jornada, garantindo que a interface fosse responsiva e atendesse ao design proposto. O objetivo era deixar tudo o mais claro e simples possível para que os 
-usuários pudessem navegar sem complicações.
-
-Além disso, implementei dashboards interativos que mostravam dados como horas trabalhadas, horas extras e sobreavisos de maneira bem visual, o que facilitou muito o acompanhamento das 
-métricas. Isso ajudou os gestores a terem uma visão clara e em tempo real de tudo que estava acontecendo.
+usuários pudessem navegar sem complicações. Além disso, implementei dashboards interativos que mostravam dados como horas trabalhadas, horas extras e sobreavisos de maneira bem visual, o 
+que facilitou muito o acompanhamento das métricas. Isso ajudou os gestores a terem uma visão clara e em tempo real de tudo que estava acontecendo.
+</p>
 
 ## 🛠️ Hard Skills
 
