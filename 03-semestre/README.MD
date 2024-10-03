@@ -40,6 +40,27 @@ Ao longo do projeto, trabalhamos com as seguintes ferramentas:
 
 ## ✨ Contribuições Pessoais
 
+Nesse projeto, atuei como desenvolvedora de front-end, utilizando React, Next.js, Axios e TypeScript. Fui responsável pela construção das interfaces principais, garantindo que o design 
+enviado pela equipe de produto fosse implementado de forma fiel e responsiva. Além disso, trabalhei na implementação de dashboards interativos, proporcionando uma visualização clara e 
+acessível dos dados, o que facilitou o acompanhamento das métricas e resultados. Também colaborei na integração das funcionalidades com as APIs, assegurando que a comunicação entre o 
+front-end e o back-end ocorresse de maneira eficiente e otimizada.
+
 ## 🛠️ Hard Skills
 
+- **React**: Uso com autonomia.
+- **Next.js**: Uso com autonomia.
+- **TypeScript**: Uso com autonomia.
+- **Axios**: Uso com autonomia.
+- **NodeJS + TypeScript**: Uso com autonomia.
+- **PostgreSQL + TypeORM**: Uso com ajuda.
+- **Figma**: Uso com autonomia.
+
 ## 🌱 Soft Skills
+
+- **Resiliência**: Mantive o foco e a produtividade mesmo diante de problemas com membros da equipe que não colaboravam adequadamente.
+- **Habilidade em lidar com conflitos**: Encontrei formas de melhorar a comunicação e incentivar a participação ativa de todos, para que o projeto pudesse avançar.
+- **Gestão de tempo**: Organizei meu trabalho de forma eficiente, lidando com as demandas e novos prazos causados pelas circunstâncias externas (Pandemia de COVID-19).
+- **Motivação**: Apesar dos desafios, mantive o foco na entrega de um produto de alta qualidade, contribuindo para o sucesso final do projeto.
+
+
+
