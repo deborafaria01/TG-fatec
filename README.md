@@ -14,7 +14,7 @@ melhores competidores na plataforma TryHackMe, uma das maiores do mundo no setor
 </div>
 
 <p align="justify">
-Minha trajetória na tecnologia começou de forma inesperada. Após três anos cursando Direito, durante um estágio na Fatec de Ourinhos-SP, tive contato com a área de cibersegurança e logo me envolvi em eventos da área. Esse novo caminho despertou uma paixão, levando-me a trancar o curso de Direito e iniciar uma nova jornada na tecnologia.
+Minha trajetória na tecnologia começou de forma inesperada. Após três anos cursando Direito, durante um estágio na Fatec de Ourinhos-SP, tive contato com a área de cibersegurança e logo me envolvi em eventos da área. Esse novo caminho despertou uma paixão, levando-me a trancar o curso de Direito e iniciar uma nova jornada.
 </p>
 
 <p align="justify">
