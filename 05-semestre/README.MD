@@ -1,12 +1,16 @@
 ## 📝 Quinto Semestre 2023-1
 
+<p align="justify">
 Este projeto foi desenvolvido em parceria com a IACIT, uma empresa de tecnologia reconhecida por suas soluções inovadoras nos setores de defesa, segurança pública, controle de tráfego 
 aéreo e meteorologia. O desafio do projeto foi criar uma aplicação híbrida e responsiva para centralizar o Serviço de Atendimento ao Cliente (SAC). 
+</p>
 
+<p align="justify">
 A solução proposta foi desenvolver uma aplicação capaz de consolidar e organizar esses ROs provenientes de diferentes canais de comunicação. A aplicação permite que os clientes criem e 
 acompanhem suas solicitações, além de oferecer um chat para contato direto com os administradores, facilitando a comunicação. Do lado administrativo, a plataforma permite que os gestores 
 recebam, atualizem o status das solicitações e acompanhem as pendências de forma centralizada. A aplicação, sendo híbrida e responsiva, garante uma experiência consistente tanto em 
 dispositivos móveis quanto em desktop, otimizando o fluxo de trabalho e melhorando o atendimento ao cliente.
+</p>
 
 ## 🚀 Demonstração da Plataforma
 
@@ -32,10 +36,13 @@ integrar de forma ágil com o front-end e diferentes serviços.
 armazenamento e a recuperação de dados em tempo real.
 
 ## ✨ Contribuições Pessoais
+
+<p align="justify">
 Nesse projeto, atuei como desenvolvedora, utilizando React Native para criar a interface do aplicativo móvel que centraliza o atendimento ao cliente. Fui responsável pela implementação 
 de componentes reutilizáveis, garantindo consistência visual em todas as telas e uma navegação intuitiva. Além disso, participei da integração do front-end com as APIs, assegurando que 
 os dados dos Registros de Ocorrência (ROs) fossem carregados corretamente e exibidos de maneira clara e organizada para os usuários. Também realizei testes contínuos para garantir o bom 
 funcionamento da aplicação em diferentes dispositivos, ajustando a interface sempre que necessário, proporcionando uma experiência fluida e eficiente para o usuário.
+</p>
 
 ## 🛠️ Hard Skills
 - **React Native**: Uso com autonomia.
