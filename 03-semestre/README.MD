@@ -14,9 +14,9 @@ o acompanhamento do progresso e proporcionando suporte completo para as áreas d
   <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/%234-archive-won-dashboard.gif">
 </p>
 
-[- Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/api-sem3-target-crm/tree/main)
+[→ Clique aqui para acessar a aplicação.](https://targetcrm.vercel.app/)
 
-[- Clique aqui para acessar a aplicação.](https://targetcrm.vercel.app/)
+[→ Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/api-sem3-target-crm/tree/main)
 
 ## 💻 Tecnologias Utilizadas
 Ao longo do projeto, trabalhamos com as seguintes ferramentas:
