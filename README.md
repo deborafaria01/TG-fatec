@@ -14,12 +14,11 @@ melhores competidores na plataforma TryHackMe, uma das maiores do mundo no setor
 </div>
 
 <p align="justify">
-Minha trajetória na tecnologia começou de forma inesperada. Após três anos cursando Direito, durante um estágio na Fatec de Ourinhos-SP, tive contato com a área de cibersegurança e logo me 
-envolvi em eventos da área. Esse novo caminho despertou uma paixão, levando-me a trancar o curso de Direito e iniciar uma nova jornada na tecnologia.
+Minha trajetória na tecnologia começou de forma inesperada. Após três anos cursando Direito, durante um estágio na Fatec de Ourinhos-SP, tive contato com a área de cibersegurança e logo me envolvi em eventos da área. Esse novo caminho despertou uma paixão, levando-me a trancar o curso de Direito e iniciar uma nova jornada na tecnologia.
 </p>
 
 <p align="justify">
-Atualmente, estudo e desenvolvo de forma independente diversos projetos na área de cibersegurança, com o objetivo de aprimorar meus conhecimentos. Entre esses projetos, destaco a criação de honeypots, projetados para atrair e monitorar atividades maliciosas. Também me dedico à implementação de plataformas de SIEM (Security Information and Event Management), que proporcionam soluções integradas para o monitoramento e a gestão de eventos de segurança. Além disso, foco na criação de regras avançadas para a detecção de ameaças e incidentes, garantindo respostas rápidas e eficazes.
+Atualmente, estudo e desenvolvo de forma independente diversos projetos na área de cibersegurança, com o objetivo de aprimorar meus conhecimentos. Entre esses projetos, destaco a criação de honeypots, projetados para atrair e monitorar atividades maliciosas. Também me dedico à implementação de plataformas de SIEM (Security Information and Event Management), que proporcionam soluções integradas para o monitoramento e a gestão de eventos de segurança. Além disso, foco na criação de regras avançadas para a detecção de ameaças e incidentes, garantindo respostas rápidas e eficazes a possíveis vulnerabilidades, minimizando o impacto de ataques e assegurando a continuidade das operações.
 </p>
 
 <p align="justify">
