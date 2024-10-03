@@ -11,7 +11,7 @@ o acompanhamento do progresso e proporcionando suporte completo para as áreas d
 ## 🚀 Demonstração da Plataforma
 
 <p align="center">
-  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/%234-archive-won-dashboard.gif" style="width: 600px; height: auto;">
+  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/%234-archive-won-dashboard.gif">
 </p>
 
 [- Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/api-sem3-target-crm/tree/main)
