@@ -1,4 +1,4 @@
-## 📝 Quarto Semestre 2022-2
+## 📝 4º Semestre 2022-2
 
 <p align="justify">
 Este projeto foi desenvolvido em parceria com a 2RP, uma empresa especializada em soluções tecnológicas voltadas para a gestão empresarial, com foco na otimização de processos em 
