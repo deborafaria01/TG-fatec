@@ -1,4 +1,4 @@
-## 📝 Primeiro Semestre 2020-2
+## 📝 1º Semestre 2020-2
 <p align="justify">
 Este projeto foi desenvolvido em colaboração com o Professor Antonio Egydio São Thiago Graça, que representou uma empresa fictícia. O objetivo foi criar uma plataforma para a venda de 
 conteúdos didáticos, abrangendo temas como Arquitetura e Organização de Computadores, Laboratório de Hardware, Língua Inglesa, Língua Portuguesa (com foco em Pontuação e Concordância), 
