@@ -11,7 +11,7 @@ acesso conforme a função de cada usuário.
 ## 🚀 Demonstração da Plataforma
 
 <p align="center">
-  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/lvl_adm.gif" style="width: 700px; height: auto;">
+  <img src="https://github.com/deborafaria01/TG-fatec/blob/main/Gifs/lvl_adm.gif" style="width: 100px; height: auto;">
 </p>
 
 [- Link para o repositório do projeto no GitHub.](https://github.com/deborafaria01/2RP)
