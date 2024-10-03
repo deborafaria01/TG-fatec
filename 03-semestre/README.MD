@@ -1,4 +1,4 @@
-## 📝 Terceiro Semestre 2021-2
+## 📝 3º Semestre 2021-2
 
 <p align="justify">
 Este projeto foi realizado em colaboração com a Ionic Health, uma empresa renomada por sua expertise em automação e transformação digital na medicina diagnóstica. O desafio consistiu em 
