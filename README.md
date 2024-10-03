@@ -52,12 +52,12 @@ mitigar e responder a ameaças.
 
 | Semestre                                               | Ano                                                      | Descrição                                                |
 |--------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
-| [Primeiro](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | 2020-2 | Plataforma para a comercialização de conteúdos didáticos |
-| [Segundo](https://github.com/deborafaria01/TG-fatec/tree/main/02-semestre) | 2021-1 | Solução para unificação e tratamento de dados de projetos |
-| [Terceiro](https://github.com/deborafaria01/TG-fatec/tree/main/03-semestre) | 2021-2 | Plataforma web de Customer Relationship Management (CRM) |
-| [Quarto](https://github.com/deborafaria01/TG-fatec/tree/main/04-semestre) | 2022-2 | Plataforma para gestão de RH |
-| [Quinto](https://github.com/deborafaria01/TG-fatec/tree/main/05-semestre) | 2023-1 | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
-| [Sexto](https://github.com/deborafaria01/TG-fatec/tree/main/06-semestre) | 2023-2 | Plataforma de recrutamento e seleção de candidatos | 
+| [1º semestre](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | 2020-2 | Plataforma para a comercialização de conteúdos didáticos |
+| [2º semestre](https://github.com/deborafaria01/TG-fatec/tree/main/02-semestre) | 2021-1 | Solução para unificação e tratamento de dados de projetos |
+| [3º semestre](https://github.com/deborafaria01/TG-fatec/tree/main/03-semestre) | 2021-2 | Plataforma web de Customer Relationship Management (CRM) |
+| [4º semestre](https://github.com/deborafaria01/TG-fatec/tree/main/04-semestre) | 2022-2 | Plataforma para gestão de RH |
+| [5º semestre](https://github.com/deborafaria01/TG-fatec/tree/main/05-semestre) | 2023-1 | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
+| [6º semestre](https://github.com/deborafaria01/TG-fatec/tree/main/06-semestre) | 2023-2 | Plataforma de recrutamento e seleção de candidatos | 
 
 
 
