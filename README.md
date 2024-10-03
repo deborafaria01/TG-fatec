@@ -50,14 +50,14 @@ mitigar e responder a ameaças.
 
 ### 💻 Meus Projetos
 
-| Semestre                                               | Descrição                                                |
-|--------------------------------------------------------|----------------------------------------------------------|
-| [1º Semestre - 2020-2](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | Plataforma para a comercialização de conteúdos didáticos |
-| [2º Semestre - 2021-1](https://github.com/deborafaria01/TG-fatec/tree/main/02-semestre) | Solução para unificação e tratamento de dados de projetos |
-| [3º Semestre - 2021-2](https://github.com/deborafaria01/TG-fatec/tree/main/03-semestre) | Plataforma web de Customer Relationship Management (CRM) |
-| [4º Semestre - 2022-2](https://github.com/deborafaria01/TG-fatec/tree/main/04-semestre) | Plataforma para gestão de RH |
-| [5º Semestre - 2023-1](https://github.com/deborafaria01/TG-fatec/tree/main/05-semestre) | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
-| [6º Semestre - 2023-2](https://github.com/deborafaria01/TG-fatec/tree/main/06-semestre) | Plataforma de recrutamento e seleção de candidatos | 
+| Semestre                                               | Ano                                                      | Descrição                                                |
+|--------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| [1º](https://github.com/deborafaria01/TG-fatec/tree/main/01-semestre) | 2020-2 | Plataforma para a comercialização de conteúdos didáticos |
+| [2º](https://github.com/deborafaria01/TG-fatec/tree/main/02-semestre) | 2021-1 | Solução para unificação e tratamento de dados de projetos |
+| [3º](https://github.com/deborafaria01/TG-fatec/tree/main/03-semestre) | 2021-2 | Plataforma web de Customer Relationship Management (CRM) |
+| [4º](https://github.com/deborafaria01/TG-fatec/tree/main/04-semestre) | 2022-2 | Plataforma para gestão de RH |
+| [5º](https://github.com/deborafaria01/TG-fatec/tree/main/05-semestre) | 2023-1 | Aplicação híbrida de Serviço de Atendimento ao Cliente (SAC) |
+| [6º](https://github.com/deborafaria01/TG-fatec/tree/main/06-semestre) | 2023-2 | Plataforma de recrutamento e seleção de candidatos | 
 
 
 
