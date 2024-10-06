@@ -37,6 +37,22 @@ de linguagens como Python e Java, aplicadas em projetos variados, desde desenvol
 bancos de dados, utilizando tecnologias como SQL para manipulação e análise de dados em grandes volumes, sempre com foco em eficiência e segurança.
 </p>
 
+### 📚 Cursos de Atualização
+* [Formação: PowerShell - Alura](https://cursos.alura.com.br/degree/certificate/7127f70f-06f7-420b-bc95-7ce0e125e000)
+* [Formação: Segurança de Software com OWASP - Alura](https://cursos.alura.com.br/degree/certificate/264012b9-258b-416f-a3ae-44e08c454ce2)
+* [Redes: Conceitos e Prática - Alura](https://cursos.alura.com.br/certificate/673b350b-62c8-4817-96f9-3f61b46ed2d1)
+* [Foundations of Operationalizing MITRE ATT&CK v13 - AttackIQ](https://www.credly.com/badges/5ce2d091-dc06-4e5f-a5d0-6f2d0c64f4a4/linked_in_profile)
+* [Top ATT&CK Techniques - AttackIQ](https://www.credly.com/badges/150fb8d1-872b-476f-b6d2-513c7fcc55dd/public_url)
+* [Uniting Threat and Risk Management with NIST 800-53 and MITRE ATT&CK - AttackIQ](https://www.credly.com/badges/8ac97e28-e5bf-4eed-9420-7e2d276dfdeb/linked_in_profile)
+* [Foundations of Hacking and Pentesting Android Apps - EC-Council](https://codered.eccouncil.org/certificate/00a3a61e-0f9d-4ca3-9700-dd9ded81aea5?logged=true)
+* [Session Hijacking and Prevention Techniques - EC-Council](https://codered.eccouncil.org/certificate/716a7b98-4e37-4371-ab92-d381a3a22c80?logged=true)
+* [Web Application Security Testing with Google Hacking - EC-Council](https://codered.eccouncil.org/certificate/3bba986d-5996-4da3-86ef-2b53b3670c4a?logged=true)
+* [Web Hacker’s Toolbox: Tools Used by Successful Hackers - EC-Council](https://codered.eccouncil.org/certificate/108a2156-31f6-4d9a-bbc1-d0185ce30703?logged=true)
+* [CompTIA Pentest+ Learning Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WCNXUBW0BW.png)
+* [Introduction to Cyber Security - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LOXZCHF3SL.png)
+* [Jr Penetration Tester - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PVMLGSYPRL.png)
+* [Web Fundamentals - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BUNCZ1QQ7E.png)
+
 <p align="justify">
 Além disso, possuo habilidades em redes de computadores, compreendendo tanto a configuração quanto a manutenção de infraestruturas de rede, o que me proporciona uma visão abrangente 
 sobre a conectividade e a segurança de dados. Motivada por uma busca incessante por conhecimento na área de cibersegurança, estou sempre aprimorando minhas habilidades para identificar, 
