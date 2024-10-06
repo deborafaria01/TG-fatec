@@ -41,7 +41,10 @@ vulnerabilidades.
 </p>
 
 <p align="justify">
-Na área de segurança, tenho experiência tanto em Red Team quanto em Blue Team. No Red Team, realizo simulações de ataques, teste de penetração e exploração de vulnerabilidades, buscando identificar falhas antes que possam ser exploradas. No Blue Team, foco na implementação de controles de segurança, monitoramento de ameaças e resposta a incidentes, utilizando ferramentas como SIEM para garantir que as infraestruturas estejam seguras e resilientes.
+Na área de segurança, tenho experiência tanto em Red Team quanto em Blue Team. No Red Team, realizo simulações de ataques, teste de penetração e exploração de vulnerabilidades, buscando 
+identificar falhas antes que possam ser exploradas. No Blue Team, foco na implementação de controles de segurança, monitoramento de ameaças e resposta a incidentes, utilizando 
+ferramentas como SIEM para garantir que as infraestruturas estejam seguras e resilientes. Além disso, estou familiarizada com governança e compliance em TI, seguindo regulamentações como 
+LGPD e GDPR para assegurar que os sistemas e dados estejam em conformidade com as exigências legais de proteção e privacidade.
 </p>
 
 ### 📚 Cursos de Atualização
