@@ -35,8 +35,9 @@ desenvolvimento de seis projetos, cada um realizado a cada semestre, refletindo 
 <p align="justify">
 Ao longo da minha trajetória, desenvolvi uma base sólida em tecnologia da informação, com conhecimentos que abrangem redes, segurança, programação e banco de dados. Embora meu foco atual 
 e minha paixão estejam voltados para seguir carreira na área de segurança da informação, também possuo experiência em programação, com domínio de linguagens como Python, Java, 
-JavaScript, PHP, TypeScript e PowerShell, aplicadas em automação de processos, desenvolvimento de APIs e criação de aplicações web. Além disso, tenho conhecimento prático em banco de 
-dados, o que me permite entender melhor a segurança de dados e sua integração nos sistemas.
+JavaScript, PHP, TypeScript e PowerShell, aplicadas em automação de processos, desenvolvimento de APIs e criação de aplicações web. Além disso, tenho experiência prática com Bancos de 
+Dados Relacionais e NoSQL, o que me permite garantir uma integração eficiente e segura dos dados nos sistemas, proporcionando maior confiabilidade, escalabilidade e proteção contra 
+vulnerabilidades.
 </p>
 
 <p align="justify">
