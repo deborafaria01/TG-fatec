@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github.com/deborafaria01/TG-fatec/blob/main/H2HC%202023.jpeg" alt="H2HC 2023" width="215" align="right" style="margin-left: 20px;">
-  <p>
+<p>
 
 <p align="justify">
 Sou graduanda em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal. Atualmente, estou me especializando na área de 
@@ -31,10 +31,16 @@ desenvolvimento de seis projetos, cada um realizado a cada semestre, refletindo 
 </p>
 
 ### 💡 Meus Principais Conhecimentos
+
 <p align="justify">
-Ao longo da minha trajetória, desenvolvi uma sólida base de conhecimentos técnicos, abrangendo diversas áreas da tecnologia da informação. Tenho experiência em programação, com domínio 
-de linguagens como Python e Java, aplicadas em projetos variados, desde desenvolvimento de APIs até automação de processos. Minha expertise também inclui o gerenciamento e a modelagem de 
-bancos de dados, utilizando tecnologias como SQL para manipulação e análise de dados em grandes volumes, sempre com foco em eficiência e segurança.
+Ao longo da minha trajetória, desenvolvi uma base sólida em tecnologia da informação, com conhecimentos que abrangem redes, segurança, programação e banco de dados. Embora meu foco atual 
+e minha paixão estejam voltados para seguir carreira na área de segurança da informação, também possuo experiência em programação, com domínio de linguagens como Python, Java, 
+JavaScript, PHP, TypeScript e PowerShell, aplicadas em automação de processos, desenvolvimento de APIs e criação de aplicações web. Além disso, tenho conhecimento prático em banco de 
+dados, o que me permite entender melhor a segurança de dados e sua integração nos sistemas.
+</p>
+
+<p align="justify">
+Na área de segurança, tenho experiência tanto em Red Team quanto em Blue Team. No Red Team, realizo simulações de ataques, teste de penetração e exploração de vulnerabilidades, buscando identificar falhas antes que possam ser exploradas. No Blue Team, foco na implementação de controles de segurança, monitoramento de ameaças e resposta a incidentes, utilizando ferramentas como SIEM para garantir que as infraestruturas estejam seguras e resilientes.
 </p>
 
 ### 📚 Cursos de Atualização
@@ -53,16 +59,11 @@ bancos de dados, utilizando tecnologias como SQL para manipulação e análise d
 * [Jr Penetration Tester - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PVMLGSYPRL.png)
 * [Web Fundamentals - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BUNCZ1QQ7E.png)
 
-<p align="justify">
-Além disso, possuo habilidades em redes de computadores, compreendendo tanto a configuração quanto a manutenção de infraestruturas de rede, o que me proporciona uma visão abrangente 
-sobre a conectividade e a segurança de dados. Motivada por uma busca incessante por conhecimento na área de cibersegurança, estou sempre aprimorando minhas habilidades para identificar, 
-mitigar e responder a ameaças. 
-</p>
-
 ### ✉️ Contatos
-- [Github](https://github.com/deborafaria01)
 
-- [LinkedIn](https://www.linkedin.com/in/debora-faria2109/)
+* [Github](https://github.com/deborafaria01)
+
+* [LinkedIn](https://www.linkedin.com/in/debora-faria2109/)
 
 ### 💻 Meus Projetos
 
