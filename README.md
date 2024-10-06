@@ -66,7 +66,6 @@ LGPD e GDPR para assegurar que os sistemas e dados estejam em conformidade com a
 ### ✉️ Contatos
 
 * [Github](https://github.com/deborafaria01)
-
 * [LinkedIn](https://www.linkedin.com/in/debora-faria2109/)
 
 ### 💻 Meus Projetos
