@@ -26,6 +26,12 @@ operações.
 </p>
 
 <p align="justify">
+Recentemente, comecei um estágio na área de segurança da informação, onde realizo atividades relacionadas à infraestrutura de rede e segurança, implementando ferramentas de segurança e 
+configurando sistemas de backup e resiliência. Além disso, trabalho com a criação e modificação de scripts para automação de processos, monitoração de segurança e testes de qualidade. 
+Essas atividades me permitem aplicar e expandir meus conhecimentos em engenharia de software e SIEM.
+</p>
+
+<p align="justify">
 Este repositório tem como objetivo reunir e documentar todos os projetos de API - Aprendizagem por Projetos Integrados - desenvolvidos ao longo da minha graduação. Ao todo, colaborei no 
 desenvolvimento de seis projetos, cada um realizado a cada semestre, refletindo o progresso contínuo das minhas habilidades e conhecimentos em programação e desenvolvimento de sistemas.
 </p>
