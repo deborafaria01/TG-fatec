@@ -26,9 +26,10 @@ operações.
 </p>
 
 <p align="justify">
-Recentemente, comecei um estágio na área de segurança da informação, onde realizo atividades relacionadas à infraestrutura de rede e segurança, implementando ferramentas de segurança e 
-configurando sistemas de backup e resiliência. Além disso, trabalho com a criação e modificação de scripts para automação de processos, monitoração de segurança e testes de qualidade. 
-Essas atividades me permitem aplicar e expandir meus conhecimentos em engenharia de software e SIEM.
+Recentemente, iniciei um estágio em segurança da informação, onde tenho a oportunidade de atuar em diversas frentes críticas da área. Minhas atividades incluem a implementação de 
+ferramentas de segurança voltadas para infraestrutura de rede, além da configuração de sistemas de backup e resiliência, assegurando a continuidade e proteção dos dados. Também atuo no 
+desenvolvimento e modificação de scripts que automatizam processos, monitoram a segurança e garantem a qualidade dos sistemas. Esse trabalho tem sido fundamental para aplicar e expandir 
+meus conhecimentos em engenharia de software e em plataformas de SIEM, permitindo uma abordagem prática e integrada à cibersegurança.
 </p>
 
 <p align="justify">
