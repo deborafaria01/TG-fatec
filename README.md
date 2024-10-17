@@ -59,7 +59,7 @@ LGPD e GDPR para assegurar que os sistemas e dados estejam em conformidade com a
 * [Web Application Security Testing with Google Hacking - EC-Council](https://codered.eccouncil.org/certificate/3bba986d-5996-4da3-86ef-2b53b3670c4a?logged=true)
 * [Web Hacker’s Toolbox: Tools Used by Successful Hackers - EC-Council](https://codered.eccouncil.org/certificate/108a2156-31f6-4d9a-bbc1-d0185ce30703?logged=true)
 * [Introduction to MongoDB - MongoDB](https://learn.mongodb.com/c/nVMNV5TIScuC_j5sU1X_LQ)
-* [MongoDB Python Developer Path](https://learn.mongodb.com/c/FtK1tTSFSBmsRqj0isvWhw)
+* [MongoDB Python Developer Path - MongoDB](https://learn.mongodb.com/c/FtK1tTSFSBmsRqj0isvWhw)
 * [CompTIA Pentest+ Learning Path - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WCNXUBW0BW.png)
 * [Introduction to Cyber Security - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LOXZCHF3SL.png)
 * [Jr Penetration Tester - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PVMLGSYPRL.png)
