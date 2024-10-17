@@ -63,9 +63,13 @@ front-end e o back-end ocorresse de maneira eficiente e otimizada.
 
 ## 🌱 Soft Skills
 
-- **Resiliência**: Mantive o foco e a produtividade mesmo diante de problemas com membros da equipe que não colaboravam adequadamente.
-- **Habilidade em lidar com conflitos**: Encontrei formas de melhorar a comunicação e incentivar a participação ativa de todos, para que o projeto pudesse avançar.
-- **Gestão de tempo**: Organizei meu trabalho de forma eficiente, lidando com as demandas e novos prazos causados pelas circunstâncias externas (Pandemia de COVID-19).
+- **Habilidade em lidar com conflitos**: Durante o desenvolvimento, enfrentei a dificuldade de trabalhar com uma equipe desmotivada devido a questões externas e pessoais, como o impacto 
+da pandemia de COVID-19. Percebi que o desânimo estava afetando a comunicação e o progresso do projeto. Para contornar isso, adotei uma abordagem proativa, organizando check-ins 
+frequentes para discutir o andamento das tarefas e criar um ambiente mais colaborativo. Incentivei a participação ativa de todos nas decisões do projeto e ajustei o cronograma para 
+acomodar as dificuldades pessoais dos membros. Isso ajudou a melhorar a comunicação e o engajamento da equipe, permitindo que o projeto avançasse conforme planejado.
+- **Gestão de tempo**: Organizei meu trabalho de maneira eficiente, antecipando as demandas e priorizando as tarefas mais críticas. Além disso, assumi novas responsabilidades que 
+surgiram quando alguns membros da equipe não conseguiram concluir suas atividades dentro do prazo. Para garantir que o projeto não fosse comprometido, reestruturei meu cronograma e 
+distribuí meu tempo de forma equilibrada, assegurando que tanto as minhas tarefas quanto as adicionais fossem entregues com qualidade e dentro do prazo estabelecido.
 - **Motivação**: Apesar dos desafios, mantive o foco na entrega de um produto de alta qualidade, contribuindo para o sucesso final do projeto.
 
 
