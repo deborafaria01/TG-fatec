@@ -66,8 +66,10 @@ foi essencial para enriquecer a proposta da plataforma, proporcionando aos usuá
 - **GitHub**: Uso com autonomia.
 
 ## 🌱 Soft Skills
-- **Trabalho em equipe**: Saber trabalhar em equipe foi essencial para garantir o equilíbrio e a harmonia do grupo, especialmente diante de muitas ideias divergentes. Lidar com essas 
-diferenças de forma construtiva nos ajudou a cumprir as sprints dentro do prazo, mantendo o foco nos objetivos e na entrega de resultados.
+- **Trabalho em equipe**: Saber trabalhar em equipe foi essencial para garantir o equilíbrio e a harmonia do grupo, especialmente diante de muitas ideias divergentes. Um exemplo disso 
+ocorreu quando surgiram desacordos sobre a arquitetura ideal do sistema. Ao invés de deixar que essas diferenças prejudicassem o progresso, promovemos reuniões de alinhamento e 
+discutimos as propostas de forma construtiva. Esse processo nos ajudou a definir a melhor abordagem técnica, garantindo que cumpríssemos as sprints dentro do prazo, mantendo o foco nos 
+objetivos e na entrega de resultados de alta qualidade.
 - **Criatividade**: Minha criatividade foi essencial no desenvolvimento do protótipo das páginas, onde busquei criar um design atrativo, minimalista e alinhado com as regras de 
 usabilidade, visando oferecer uma experiência fluida para o usuário. Além disso, na criação dos conteúdos didáticos, fui responsável por elaborar o roteiro, realizar a gravação e editar 
 o material de estudo sobre Pontuação da Língua Portuguesa. A qualidade desse material serviu de referência para os outros integrantes do grupo gravarem suas videoaulas, mantendo um 
