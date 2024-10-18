@@ -50,12 +50,17 @@ funcionamento da aplicação em diferentes dispositivos, ajustando a interface s
 - **MongoDB**: Uso com ajuda.
 
 ## 🌱 Soft Skills
-- **Colaboração em equipe**: Trabalhei de forma próxima com a equipe de back-end, principalmente nas integrações com as APIs e no alinhamento das funcionalidades da aplicação. A troca 
-constante de feedback ajudou a garantir que todos tivessem um entendimento claro e alinhado sobre os objetivos, tarefas e funcionalidades da aplicação
+- **Colaboração em equipe**: Trabalhei de forma próxima com a equipe de back-end durante o desenvolvimento, principalmente nas integrações com as APIs e no alinhamento das 
+funcionalidades da aplicação. Em uma das sprints, enfrentamos um problema na sincronização dos dados entre o front-end e o back-end. Através de reuniões diárias e da troca constante de 
+feedback, conseguimos identificar rapidamente a causa do erro e ajustamos os endpoints da API. Essa colaboração próxima garantiu que todos tivessem um entendimento claro e coordenado dos 
+objetivos, resultando em uma integração estável e funcional.
   
-- **Resolução de problemas**: Enfrentei desafios técnicos durante a integração com as APIs e na adaptação do aplicativo para diferentes dispositivos. Fui capaz de identificar os 
-problemas, propor soluções eficazes e implementar as correções necessárias, sempre mantendo o fluxo de trabalho estável e dentro do prazo.
+- **Resolução de problemas**: Durante a fase de adaptação do aplicativo para diferentes dispositivos, enfrentei desafios técnicos na renderização correta das interfaces em dispositivos 
+de tamanhos variados. Um dos problemas críticos surgiu na versão mobile, onde alguns elementos não estavam se ajustando conforme o esperado. Após investigar a causa, percebi que se 
+tratava de um conflito no design responsivo. Propus e implementei uma solução utilizando media queries e ajustes no CSS, o que resolveu o problema e garantiu uma experiência consistente 
+para todos os usuários, sem impactar o cronograma do projeto.
 
-- **Atenção aos detalhes**: Ao desenvolver a interface e realizar testes, mantive um foco constante nos detalhes para garantir que a experiência do usuário fosse fluida e que a interface 
-funcionasse perfeitamente em diferentes dispositivos e tamanhos de tela.
-
+- **Atenção aos detalhes**: No momento de realizar os testes da interface, percebi que alguns elementos de UI estavam sendo exibidos de maneira inconsistente em dispositivos com telas de 
+alta resolução. Ao revisar o código, notei que as definições de layout precisavam de ajustes específicos para essas resoluções. Trabalhei na otimização dos componentes visuais e ajustei 
+o layout para garantir que a interface permanecesse responsiva e funcional em todos os dispositivos. Esse cuidado com os detalhes contribuiu para uma experiência de usuário fluida e sem 
+falhas, o que foi validado pelos testes de aceitação.
