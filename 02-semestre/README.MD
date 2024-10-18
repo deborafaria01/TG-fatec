@@ -64,14 +64,17 @@ código fosse estruturado e acessível para todos os membros da equipe.
 
 ## 🌱 Soft Skills
 
-- **Trabalho em equipe:** Manter uma boa comunicação entre a equipe e o cliente foi fundamental para garantir que todos estivessem alinhados em relação às expectativas e necessidades do 
-projeto. Saber mediar diferentes opiniões e encontrar soluções colaborativas nos ajudou a cumprir as sprints dentro dos prazos, sempre focando nas prioridades de negócio e na entrega de 
-valor.
+- **Tomada de decisão:** Como Product Owner, a tomada de decisão rápida e assertiva foi essencial em várias situações. Durante o desenvolvimento, houve um momento em que o cliente 
+solicitou uma mudança significativa nas funcionalidades, a poucos dias do término da sprint. Priorizei uma análise rápida dos impactos dessa alteração no backlog e, após discutir com a 
+equipe, decidimos postergar a mudança para a próxima iteração. Isso garantiu que as funcionalidades mais importantes fossem entregues dentro do prazo, mantendo o projeto no cronograma e 
+satisfazendo as necessidades imediatas do cliente.
 
-- **Tomada de decisão:** Como Product Owner, a tomada de decisão rápida e assertiva foi essencial para priorizar as tarefas no backlog e garantir que as funcionalidades mais importantes fossem entregues primeiro. Isso ajudou a manter o projeto dentro do cronograma e a atender as necessidades do cliente de forma eficiente.
+- **Organização:** A organização foi crucial para que eu pudesse gerenciar múltiplas responsabilidades, como a criação de protótipos, a elaboração e aprovação de documentos, e o 
+acompanhamento das entregas. Um exemplo específico ocorreu na fase inicial do projeto, quando precisei coordenar simultaneamente a validação de requisitos com o cliente e a integração de 
+novas funcionalidades ao sistema. Além disso, foi necessário revisar o documento de Declaração de Escopo antes da entrega final. Para garantir que todas essas atividades fossem 
+concluídas dentro dos prazos, criei um cronograma detalhado e distribuí as tarefas de forma a otimizar o tempo da equipe. Essa abordagem permitiu que todas as etapas fossem finalizadas 
+sem comprometer a qualidade, assegurando que o projeto fosse entregue conforme o planejado.
 
-- **Organização:** A organização foi crucial para que eu pudesse gerenciar múltiplas responsabilidades, como a criação de protótipos, a elaboração e aprovação de documentos como o Termo de Abertura do Projeto e a Declaração de Escopo, e o acompanhamento das entregas. Isso garantiu que todas as etapas do projeto fossem concluídas dentro dos prazos estabelecidos.
-
-- **Comunicação:** Minha habilidade de comunicação foi um diferencial na interação com o cliente, garantindo que ele estivesse sempre bem informado sobre o andamento do projeto e que as expectativas estivessem alinhadas. Além disso, consegui transmitir claramente os requisitos para a equipe, facilitando o desenvolvimento e evitando retrabalho.
-
-- **Flexibilidade:** Em um projeto dinâmico, a flexibilidade foi importante para me adaptar a mudanças de escopo e prioridades sem perder o foco nos objetivos principais. Saber ajustar as sprints e realinhar a equipe às novas necessidades foi essencial para o sucesso do projeto.
+- **Comunicação:** Minha habilidade de comunicação foi um diferencial ao lidar com o cliente. Durante o projeto, houve uma situação em que o cliente estava preocupado com o progresso da 
+equipe em relação a uma funcionalidade chave. Organizei uma reunião de atualização e apresentei o status detalhado das entregas, tranquilizando o cliente quanto ao cumprimento dos prazos 
+e ajustando suas expectativas em relação às próximas etapas. Esse diálogo claro também facilitou o alinhamento interno com a equipe, evitando mal-entendidos e retrabalho.
