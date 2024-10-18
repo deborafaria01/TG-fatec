@@ -69,7 +69,3 @@ acomodar as dificuldades pessoais dos membros. Isso ajudou a melhorar a comunica
 - **Gestão de tempo**: Organizei meu trabalho de maneira eficiente, antecipando as demandas e priorizando as tarefas mais críticas. Além disso, assumi novas responsabilidades que 
 surgiram quando alguns membros da equipe não conseguiram concluir suas atividades dentro do prazo. Para garantir que o projeto não fosse comprometido, reestruturei meu cronograma e 
 distribuí meu tempo de forma equilibrada, assegurando que tanto as minhas tarefas quanto as adicionais fossem entregues com qualidade e dentro do prazo estabelecido.
-- **Motivação**: Apesar dos desafios, mantive o foco na entrega de um produto de alta qualidade, contribuindo para o sucesso final do projeto.
-
-
-
