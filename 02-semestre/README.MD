@@ -1,8 +1,13 @@
 ## 📝 2º Semestre 2021-1
 <p align="justify">
 Este projeto foi desenvolvido em colaboração com a GSW, uma empresa com mais de 29 anos de expertise no desenvolvimento de soluções de software para gestão empresarial, com atuação em 
-áreas como ERP (SAP e Microsoft Dynamics), gestão tributária, automação de processos fiscais, comércio exterior e CRM. O desafio consistiu em criar uma solução capaz de 
-unificar e processar os dados dos sistemas de gerenciamento de projetos, apresentando essas informações de forma clara e acessível em um dashboard para acompanhamento do progresso.
+áreas como ERP (SAP e Microsoft Dynamics), gestão tributária, automação de processos fiscais, comércio exterior e CRM. 
+</p>
+
+<p align="justify">
+Antes da implementação, os dados dos sistemas de gerenciamento de projetos estavam dispersos em diferentes plataformas, dificultando o acesso centralizado e a análise do progresso dos 
+projetos. Isso gerava retrabalho, falta de padronização nas informações e atrasos na tomada de decisões. O desafio, portanto, consistiu em criar uma solução capaz de unificar e processar 
+esses dados, apresentando-os de forma clara e acessível em um dashboard para acompanhamento eficiente do progresso.
 </p>
 
 <p align="justify">
@@ -64,17 +69,18 @@ código fosse estruturado e acessível para todos os membros da equipe.
 
 ## 🌱 Soft Skills
 
-- **Tomada de decisão:** Como Product Owner, a tomada de decisão rápida e assertiva foi essencial em várias situações. Durante o desenvolvimento, houve um momento em que o cliente 
-solicitou uma mudança significativa nas funcionalidades, a poucos dias do término da sprint. Priorizei uma análise rápida dos impactos dessa alteração no backlog e, após discutir com a 
-equipe, decidimos postergar a mudança para a próxima iteração. Isso garantiu que as funcionalidades mais importantes fossem entregues dentro do prazo, mantendo o projeto no cronograma e 
-satisfazendo as necessidades imediatas do cliente.
+- **Tomada de decisão:** Como Product Owner, a tomada de decisão rápida e assertiva foi essencial em várias situações. Durante o desenvolvimento do projeto, houve um momento crítico em 
+que o cliente solicitou uma mudança significativa nas funcionalidades principais apenas três dias antes do término da sprint. A alteração implicava refatorar parte do código já 
+desenvolvido, o que comprometeria a entrega dentro do prazo. Priorizei uma análise rápida dos impactos da mudança com a equipe, identificando que implementá-la naquele momento traria 
+mais riscos do que benefícios. Após apresentar os dados ao cliente, propus que a mudança fosse ajustada para a próxima iteração e expliquei como isso preservaria a entrega das 
+funcionalidades prioritárias. Essa decisão garantiu a satisfação do cliente, alinhada à visão de longo prazo do projeto.
 
-- **Organização:** A organização foi crucial para que eu pudesse gerenciar múltiplas responsabilidades, como a criação de protótipos, a elaboração e aprovação de documentos, e o 
-acompanhamento das entregas. Um exemplo específico ocorreu na fase inicial do projeto, quando precisei coordenar simultaneamente a validação de requisitos com o cliente e a integração de 
-novas funcionalidades ao sistema. Além disso, foi necessário revisar o documento de Declaração de Escopo antes da entrega final. Para garantir que todas essas atividades fossem 
-concluídas dentro dos prazos, criei um cronograma detalhado e distribuí as tarefas de forma a otimizar o tempo da equipe. Essa abordagem permitiu que todas as etapas fossem finalizadas 
-sem comprometer a qualidade, assegurando que o projeto fosse entregue conforme o planejado.
+- **Organização:** Durante a fase inicial de definição de escopo, enfrentei o desafio de lidar com múltiplas responsabilidades simultâneas. Além de conduzir reuniões para validar os 
+requisitos diretamente com o cliente, precisei integrar novas funcionalidades ao sistema enquanto revisava o documento de Declaração de Escopo que seria aprovado no mesmo período. Para 
+evitar sobrecarga, criei um cronograma com checkpoints diários e priorizei as tarefas mais críticas, utilizando ferramentas de gerenciamento como o Jira. A estratégia permitiu 
+não só atender às demandas do cliente dentro do prazo, mas também garantir que a equipe tivesse clareza das prioridades e foco nos resultados.
 
-- **Comunicação:** Minha habilidade de comunicação foi um diferencial ao lidar com o cliente. Durante o projeto, houve uma situação em que o cliente estava preocupado com o progresso da 
-equipe em relação a uma funcionalidade chave. Organizei uma reunião de atualização e apresentei o status detalhado das entregas, tranquilizando o cliente quanto ao cumprimento dos prazos 
-e ajustando suas expectativas em relação às próximas etapas. Esse diálogo claro também facilitou o alinhamento interno com a equipe, evitando mal-entendidos e retrabalho.
+- **Comunicação:** Um dos momentos mais desafiadores do projeto aconteceu quando o cliente demonstrou preocupação com a entrega de uma funcionalidade que ele considerava essencial, mas 
+cuja complexidade era maior do que o inicialmente estimado. Para resolver a situação, organizei uma reunião emergencial de status, onde apresentei o progresso real da equipe e um plano 
+detalhado de como a funcionalidade seria entregue na sprint seguinte. Também esclareci o motivo do atraso, destacando como isso beneficiaria a qualidade do produto final. Ao mesmo tempo, 
+alinhei internamente com a equipe os ajustes necessários no cronograma, reforçando a importância de manter a comunicação transparente para evitar frustrações futuras.
