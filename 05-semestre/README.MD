@@ -46,10 +46,13 @@ armazenamento e a recuperação de dados em tempo real.
 ## ✨ Contribuições Pessoais
 
 <p align="justify">
-Nesse projeto, atuei como desenvolvedora front-end, utilizando React Native para criar a interface do aplicativo móvel que centraliza o atendimento ao cliente. Fui responsável pela 
-implementação de componentes reutilizáveis, garantindo consistência visual em todas as telas e uma navegação intuitiva. Além disso, participei da integração do front-end com as APIs, 
-assegurando que os dados dos Registros de Ocorrência (ROs) fossem carregados corretamente e exibidos de maneira clara e organizada para os usuários. Também realizei testes contínuos para 
-garantir o bom funcionamento da aplicação em diferentes dispositivos, ajustando a interface sempre que necessário, proporcionando uma experiência fluida e eficiente para o usuário.
+No projeto, atuei como desenvolvedora front-end, utilizando React Native para construir a interface do aplicativo móvel que centraliza o atendimento ao cliente. Minha contribuição 
+incluiu a implementação de componentes reutilizáveis, que garantiram consistência visual em todas as telas e facilitaram futuras manutenções.
+Fui responsável pela integração do front-end com as APIs, enfrentando e solucionando problemas na exibição dos dados de Registros de Ocorrência (ROs). Trabalhei em colaboração com o time 
+de back-end para corrigir inconsistências nos endpoints, garantindo que os dados fossem carregados e apresentados de maneira clara e organizada aos usuários.
+Além disso, conduzi testes detalhados para identificar e corrigir problemas na interface em dispositivos móveis, como conflitos de layout em telas menores. Ajustei a renderização com 
+media queries específicas e otimizações no CSS, assegurando uma experiência de usuário fluida e eficiente. Essas ações resultaram em uma aplicação robusta, funcional e alinhada às 
+necessidades do cliente.
 </p>
 
 ## 🛠️ Hard Skills
