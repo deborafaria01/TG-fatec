@@ -68,16 +68,19 @@ front-end e o back-end ocorresse de maneira eficiente e otimizada.
 - **Figma**: Uso com autonomia.
 
 ## 🌱 Soft Skills
-
+<p align="justify">
 - **Habilidade em lidar com conflitos**: Durante o desenvolvimento de um projeto crítico no auge da pandemia de COVID-19, a equipe enfrentou um período de desmotivação intensa devido a 
 problemas pessoais e externos, como luto e isolamento. Essa situação gerou atrasos nas entregas e reduziu a eficiência nas comunicações. Identifiquei o problema ao perceber um aumento de 
 conflitos nas reuniões e atrasos frequentes nas entregas. Para reverter o cenário, organizei check-ins semanais focados em ouvir as preocupações dos membros, além de introduzir momentos 
 para celebrar pequenas vitórias, como tarefas concluídas. Adaptei o cronograma do projeto, redistribuindo tarefas para acomodar as necessidades pessoais dos integrantes. Por exemplo, ao 
 saber que um colega não poderia cumprir um prazo por questões familiares, reorganizei as prioridades e redistribuí a carga de trabalho com o apoio da equipe. Essa abordagem não só 
 restaurou o ânimo do grupo, mas também melhorou a colaboração e garantiu que as entregas fossem feitas com qualidade.
+</p>
 
+<p align="justify">
 - **Gestão de tempo**: Durante uma sprint final, dois membros da equipe não conseguiram concluir suas tarefas devido a problemas técnicos e pessoais inesperados. Isso criou um gargalo 
 que ameaçava o prazo de entrega do projeto. Identifiquei que as tarefas críticas que precisavam de atenção eram a finalização de um módulo de integração e a revisão do design do front-
 end. Para resolver, reestruturei meu cronograma, alocando horas adicionais ao meu trabalho e priorizando as tarefas mais importantes. Além de concluir as minhas atividades, assumi parte 
 do módulo de integração e revisei os componentes visuais do front-end em paralelo. Como resultado, conseguimos entregar a sprint dentro do prazo, e o cliente ficou satisfeito com a 
 qualidade do produto.
+</p>
