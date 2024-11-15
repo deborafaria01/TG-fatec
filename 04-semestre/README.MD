@@ -2,8 +2,15 @@
 
 <p align="justify">
 Este projeto foi desenvolvido em parceria com a 2RP, uma empresa especializada em soluções tecnológicas voltadas para a gestão empresarial, com foco na otimização de processos em 
-recursos humanos, finanças e operações. O desafio foi criar um sistema robusto para o controle da jornada de trabalho dos colaboradores, capaz de identificar e classificar horas extras, 
-controlar tanto as horas extras quanto os sobreavisos, além de integrar-se com a plataforma ADP para consumo de dados dos colaboradores. 
+recursos humanos, finanças e operações. 
+</p>
+
+<p align="justify">
+Antes da implementação do sistema, a empresa enfrentava dificuldades no controle e na gestão das jornadas de trabalho dos colaboradores. Os registros de horas extras e sobreavisos eram 
+feitos manualmente ou em sistemas fragmentados, o que resultava em dados inconsistentes, retrabalho e dificuldade em assegurar o cumprimento das regulamentações trabalhistas. Além disso, 
+a ausência de integração com a plataforma ADP dificultava o acesso a informações precisas dos colaboradores, impactando diretamente a eficiência dos processos de recursos humanos e a 
+geração de relatórios para auditorias. O desafio foi criar um sistema robusto para o controle da jornada de trabalho dos colaboradores, capaz de identificar e classificar horas extras, 
+controlar tanto as horas extras quanto os sobreavisos, além de integrar-se com a plataforma ADP para consumo de dados dos colaboradores.
 </p>
 
 <p align="justify">
@@ -60,11 +67,15 @@ que facilitou muito o acompanhamento das métricas. Isso ajudou os gestores a te
 
 ## 🌱 Soft Skills
 
-- **Trabalho em equipe**: Colaborei ativamente com a equipe de back-end para garantir que a integração com as APIs ocorresse de forma tranquila. Tive que ajustar rapidamente algumas 
-funcionalidades no front-end, de acordo com as mudanças que vinham do back-end, o que exigiu uma comunicação clara e ágil.
+- **Trabalho em equipe**: Durante o desenvolvimento de uma funcionalidade de integração entre o front-end e o back-end, surgiu um problema crítico: uma mudança na estrutura dos dados da 
+API foi implementada sem aviso prévio, causando erros no consumo dos dados pelo front-end. Para resolver a situação, participei de uma reunião emergencial com o time de back-end para 
+entender as alterações realizadas. Após isso, adaptei rapidamente o código no front-end para atender à nova estrutura e validei as alterações junto com os desenvolvedores do back-end. 
+Essa colaboração ágil garantiu que a funcionalidade fosse entregue no prazo e sem comprometimento da experiência do usuário.
 
-- **Resolução de problemas**: Quando surgiram bugs inesperados na integração do sistema com o ADP, rapidamente identifiquei as falhas no front-end e implementei soluções para garantir 
-que os dados fossem carregados corretamente e apresentados de forma precisa.
+- **Resolução de problemas**: Durante a integração do sistema com a plataforma ADP, identifiquei um bug crítico: os dados de jornada de trabalho não estavam sendo carregados corretamente 
+no front-end. Ao investigar, descobri que o problema estava em um erro na serialização dos dados recebidos. Trabalhei em conjunto com a equipe de back-end para ajustar o formato da 
+resposta da API e implementei validações no front-end para tratar os dados de maneira segura. Testei exaustivamente a solução antes do deploy, garantindo que os dados fossem apresentados 
+corretamente no dashboard. Como resultado, o cliente final recebeu uma funcionalidade confiável e o processo de integração foi concluído com sucesso.
 
 
 
