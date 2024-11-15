@@ -64,7 +64,7 @@ código fosse estruturado e acessível para todos os membros da equipe.
 - **Node.js**: Uso com autonomia.
 - **PostgreSQL**: Uso com ajuda.
 - **Figma**: Uso com autonomia.
-- **Jira Software**: Uso com ajuda.
+- **Jira Software**: Uso com autonomia.
 - **MS Project**: Uso com autonomia.
 
 ## 🌱 Soft Skills
