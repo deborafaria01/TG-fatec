@@ -2,7 +2,15 @@
 
 <p align="justify">
 Este projeto foi desenvolvido em parceria com a IACIT, uma empresa de tecnologia reconhecida por suas soluções inovadoras nos setores de defesa, segurança pública, controle de tráfego 
-aéreo e meteorologia. O desafio do projeto foi criar uma aplicação híbrida e responsiva para centralizar o Serviço de Atendimento ao Cliente (SAC). 
+aéreo e meteorologia. 
+</p>
+
+<p align="justify">
+Antes da implementação da aplicação, o Serviço de Atendimento ao Cliente (SAC) da empresa enfrentava diversos problemas relacionados à dispersão de informações. Os registros de 
+ocorrência (ROs) chegavam por diferentes canais, como e-mail, telefone e formulários online, mas não havia uma centralização desses dados. Isso resultava em atrasos na resposta aos 
+clientes, dificuldades para acompanhar o status das solicitações e uma experiência inconsistente para o usuário final. Além disso, os administradores tinham dificuldade em identificar e 
+gerenciar pendências de forma eficiente, o que impactava negativamente a qualidade do atendimento. Diante desse cenário, o desafio do projeto foi criar uma aplicação híbrida e responsiva 
+para centralizar o Serviço de Atendimento ao Cliente (SAC).
 </p>
 
 <p align="justify">
@@ -38,29 +46,35 @@ armazenamento e a recuperação de dados em tempo real.
 ## ✨ Contribuições Pessoais
 
 <p align="justify">
-Nesse projeto, atuei como desenvolvedora, utilizando React Native para criar a interface do aplicativo móvel que centraliza o atendimento ao cliente. Fui responsável pela implementação 
-de componentes reutilizáveis, garantindo consistência visual em todas as telas e uma navegação intuitiva. Além disso, participei da integração do front-end com as APIs, assegurando que 
-os dados dos Registros de Ocorrência (ROs) fossem carregados corretamente e exibidos de maneira clara e organizada para os usuários. Também realizei testes contínuos para garantir o bom 
-funcionamento da aplicação em diferentes dispositivos, ajustando a interface sempre que necessário, proporcionando uma experiência fluida e eficiente para o usuário.
+Nesse projeto, atuei como desenvolvedora front-end, utilizando React Native para criar a interface do aplicativo móvel que centraliza o atendimento ao cliente. Fui responsável pela 
+implementação de componentes reutilizáveis, garantindo consistência visual em todas as telas e uma navegação intuitiva. Além disso, participei da integração do front-end com as APIs, 
+assegurando que os dados dos Registros de Ocorrência (ROs) fossem carregados corretamente e exibidos de maneira clara e organizada para os usuários. Também realizei testes contínuos para 
+garantir o bom funcionamento da aplicação em diferentes dispositivos, ajustando a interface sempre que necessário, proporcionando uma experiência fluida e eficiente para o usuário.
 </p>
 
 ## 🛠️ Hard Skills
-- **React Native**: Uso com autonomia.
+- **React Native**: Uso com ajuda.
 - **Javascript**: Uso com autonomia.
-- **MongoDB**: Uso com ajuda.
+- **MongoDB**: Uso com autonomia.
 
 ## 🌱 Soft Skills
-- **Colaboração em equipe**: Trabalhei de forma próxima com a equipe de back-end durante o desenvolvimento, principalmente nas integrações com as APIs e no alinhamento das 
-funcionalidades da aplicação. Em uma das sprints, enfrentamos um problema na sincronização dos dados entre o front-end e o back-end. Através de reuniões diárias e da troca constante de 
-feedback, conseguimos identificar rapidamente a causa do erro e ajustamos os endpoints da API. Essa colaboração próxima garantiu que todos tivessem um entendimento claro e coordenado dos 
-objetivos, resultando em uma integração estável e funcional.
-  
-- **Resolução de problemas**: Durante a fase de adaptação do aplicativo para diferentes dispositivos, enfrentei desafios técnicos na renderização correta das interfaces em dispositivos 
-de tamanhos variados. Um dos problemas críticos surgiu na versão mobile, onde alguns elementos não estavam se ajustando conforme o esperado. Após investigar a causa, percebi que se 
-tratava de um conflito no design responsivo. Propus e implementei uma solução utilizando media queries e ajustes no CSS, o que resolveu o problema e garantiu uma experiência consistente 
-para todos os usuários, sem impactar o cronograma do projeto.
 
-- **Atenção aos detalhes**: No momento de realizar os testes da interface, percebi que alguns elementos de UI estavam sendo exibidos de maneira inconsistente em dispositivos com telas de 
-alta resolução. Ao revisar o código, notei que as definições de layout precisavam de ajustes específicos para essas resoluções. Trabalhei na otimização dos componentes visuais e ajustei 
-o layout para garantir que a interface permanecesse responsiva e funcional em todos os dispositivos. Esse cuidado com os detalhes contribuiu para uma experiência de usuário fluida e sem 
-falhas, o que foi validado pelos testes de aceitação.
+- **Alinhamento Colaborativo**: Durante a última sprint, enfrentamos um problema inesperado na sincronização dos dados de atualização de status das ROs entre o front-end e o back-end, 
+que estava impactando diretamente a experiência do cliente na área de acompanhamento. Por exemplo, os clientes não conseguiam visualizar em tempo real as mudanças no status de suas 
+solicitações, devido a inconsistências nos endpoints de atualização da API. Para resolver a situação, organizei uma reunião emergencial com a equipe de back-end para revisar os logs de 
+requisições e entender possíveis mudanças recentes na lógica do sistema. Identificamos que o problema estava relacionado a uma discrepância na formatação dos timestamps enviados pelo 
+back-end. Após entender o contexto, ajustei o código do front-end para tratar corretamente os dados recebidos e, ao mesmo tempo, colaborei com o time de back-end para alinhar a 
+formatação dos timestamps no endpoint. Essa abordagem coordenada permitiu que a funcionalidade fosse corrigida em menos de dois dias, garantindo que os clientes tivessem uma experiência 
+consistente e melhorando a percepção geral sobre o sistema.
+  
+- **Habilidade de Diagnóstico e Solução**: Durante a fase de adaptação do aplicativo para dispositivos móveis, notei um problema específico na renderização do menu de navegação em 
+smartphones com telas menores. O menu sobrepunha outros elementos, comprometendo a usabilidade. Investiguei a causa e percebi que o problema era decorrente de regras de CSS conflitantes 
+no design responsivo. Propus uma abordagem usando media queries específicas e testei diferentes combinações para ajustar o layout conforme o tamanho da tela. Após implementar a solução, 
+realizei testes em dispositivos reais, garantindo uma experiência consistente e fluida para os usuários. O ajuste foi concluído antes do prazo, sem comprometer outras 
+entregas.
+
+- **Integração e Refinamento de Funcionalidades**: Durante o desenvolvimento do sistema, enfrentei o desafio de estruturar e configurar as rotas de navegação para as páginas de cadastro 
+e edição de usuários. As rotas existentes não estavam completas, o que limitava o acesso às funcionalidades. Para resolver, revisei e ajustei os arquivos de rotas (admin.routes.tsx e 
+auth.routes.tsx), adicionando caminhos consistentes para páginas como CadastroUsuario e EditarUsuario. Paralelamente, implementei validações no front-end para campos obrigatórios, 
+garantindo que os dados inseridos fossem consistentes antes de serem enviados à API. Além disso, integrei feedbacks visuais claros para erros e sucesso, utilizando react-toastify. Essas 
+ações resultaram em um fluxo de navegação mais estável e em uma experiência de usuário otimizada, alinhada às necessidades do sistema.
