@@ -46,7 +46,7 @@ armazenamento e a recuperação de dados em tempo real.
 ## ✨ Contribuições Pessoais
 
 <p align="justify">
-No projeto, atuei como desenvolvedora front-end, utilizando React Native para construir a interface do aplicativo móvel que centraliza o atendimento ao cliente. Minha contribuição 
+Neste projeto, atuei como desenvolvedora front-end, utilizando React Native para construir a interface do aplicativo móvel que centraliza o atendimento ao cliente. Minha contribuição 
 incluiu a implementação de componentes reutilizáveis, que garantiram consistência visual em todas as telas e facilitaram futuras manutenções.
 Fui responsável pela integração do front-end com as APIs, enfrentando e solucionando problemas na exibição dos dados de Registros de Ocorrência (ROs). Trabalhei em colaboração com o time 
 de back-end para corrigir inconsistências nos endpoints, garantindo que os dados fossem carregados e apresentados de maneira clara e organizada aos usuários.
