@@ -1,9 +1,15 @@
 ## 📝 3º Semestre 2021-2
 
 <p align="justify">
-Este projeto foi realizado em colaboração com a Ionic Health, uma empresa renomada por sua expertise em automação e transformação digital na medicina diagnóstica. O desafio consistiu em 
-desenvolver uma aplicação web de Customer Relationship Management (Gestão de Relacionamento com o Cliente), com o objetivo de otimizar a organização dos processos comerciais e oferecer 
-suporte eficiente para as áreas de vendas e negócios da empresa parceira.
+Este projeto foi realizado em colaboração com a Ionic Health, uma empresa renomada por sua expertise em automação e transformação digital na medicina diagnóstica. 
+</p>
+
+<p align="justify">
+Antes do desenvolvimento da aplicação, a empresa parceira enfrentava dificuldades significativas na organização e gerenciamento de seus processos comerciais. As informações sobre 
+clientes, contatos e negociações estavam dispersas em diferentes ferramentas e planilhas, o que resultava em retrabalho, falta de padronização e dificuldades para monitorar o progresso 
+das vendas. Além disso, a ausência de um sistema integrado dificultava o acompanhamento estratégico das negociações e impactava a eficiência das áreas de vendas e negócios. Diante desse 
+cenário, o desafio consistiu em desenvolver uma aplicação web de Customer Relationship Management (Gestão de Relacionamento com o Cliente), com o objetivo de otimizar a organização dos 
+processos comerciais e oferecer suporte eficiente para as áreas de vendas e negócios da empresa parceira.
 </p>
 
 <p align="justify">
@@ -63,9 +69,15 @@ front-end e o back-end ocorresse de maneira eficiente e otimizada.
 
 ## 🌱 Soft Skills
 
-- **Habilidade em lidar com conflitos**: Durante o desenvolvimento do projeto, enfrentei a dificuldade de trabalhar com uma equipe desmotivada devido a questões externas e pessoais, como 
-o impacto da pandemia de COVID-19. Percebi que o desânimo estava afetando a comunicação e o progresso do projeto. Para contornar isso, adotei uma abordagem proativa, organizando check-ins frequentes para discutir o andamento das tarefas e criar um ambiente mais colaborativo. Incentivei a participação ativa de todos nas decisões do projeto e ajustei o cronograma para 
-acomodar as dificuldades pessoais dos membros. Isso ajudou a melhorar a comunicação e o engajamento da equipe, permitindo que o projeto avançasse conforme planejado.
-- **Gestão de tempo**: Organizei meu trabalho de maneira eficiente, antecipando as demandas e priorizando as tarefas mais críticas. Além disso, assumi novas responsabilidades que 
-surgiram quando alguns membros da equipe não conseguiram concluir suas atividades dentro do prazo. Para garantir que o projeto não fosse comprometido, reestruturei meu cronograma e 
-distribuí meu tempo de forma equilibrada, assegurando que tanto as minhas tarefas quanto as adicionais fossem entregues com qualidade e dentro do prazo estabelecido.
+- **Habilidade em lidar com conflitos**: Durante o desenvolvimento de um projeto crítico no auge da pandemia de COVID-19, a equipe enfrentou um período de desmotivação intensa devido a 
+problemas pessoais e externos, como luto e isolamento. Essa situação gerou atrasos nas entregas e reduziu a eficiência nas comunicações. Identifiquei o problema ao perceber um aumento de 
+conflitos nas reuniões e atrasos frequentes nas entregas. Para reverter o cenário, organizei check-ins semanais focados em ouvir as preocupações dos membros, além de introduzir momentos 
+para celebrar pequenas vitórias, como tarefas concluídas. Adaptei o cronograma do projeto, redistribuindo tarefas para acomodar as necessidades pessoais dos integrantes. Por exemplo, ao 
+saber que um colega não poderia cumprir um prazo por questões familiares, reorganizei as prioridades e redistribuí a carga de trabalho com o apoio da equipe. Essa abordagem não só 
+restaurou o ânimo do grupo, mas também melhorou a colaboração e garantiu que as entregas fossem feitas com qualidade.
+
+- **Gestão de tempo**: Durante uma sprint final, dois membros da equipe não conseguiram concluir suas tarefas devido a problemas técnicos e pessoais inesperados. Isso criou um gargalo 
+que ameaçava o prazo de entrega do projeto. Identifiquei que as tarefas críticas que precisavam de atenção eram a finalização de um módulo de integração e a revisão do design do front-
+end. Para resolver, reestruturei meu cronograma, alocando horas adicionais ao meu trabalho e priorizando as tarefas mais importantes. Além de concluir as minhas atividades, assumi parte 
+do módulo de integração e revisei os componentes visuais do front-end em paralelo. Como resultado, conseguimos entregar a sprint dentro do prazo, e o cliente ficou satisfeito com a 
+qualidade do produto.
